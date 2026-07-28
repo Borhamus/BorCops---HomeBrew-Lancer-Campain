@@ -16,7 +16,7 @@ A medida que un NPC gana peso narrativo — reaparece en una segunda sesión, se
 
 ## Candidatos ya previstos en la estructura de campaña
 
-- Compañeros de escuadrones rivales vistos en [[Sesion 00 - Examen Final]] — buenos candidatos a NPCs recurrentes que luego "desaparecen" en el [[Arco 2 - Las Facciones|Arco 2]].
+- Compañeros de escuadrones rivales vistos en [[00 - Examen Final]] — buenos candidatos a NPCs recurrentes que luego "desaparecen" en el [[Arco 2 - Las Facciones|Arco 2]].
 - El/la piloto veterano/a mencionado en [[NPCs Clave de la Empresa]] como posible fuente de verdad a medias.
 
 ## Ver también

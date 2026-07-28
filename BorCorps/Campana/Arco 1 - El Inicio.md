@@ -38,7 +38,7 @@ La mayoría de las misiones de este arco deberían ser "limpias"; ir metiendo al
 
 Este arco no tiene un número fijo de misiones — se generan con el [[Motor de Misiones]] cuantas veces haga falta hasta que se cumpla el disparador de abajo. Pueden ser varias en el mismo planeta o requerir viajar a planetas distintos. Ya construidas:
 
-- [[Mision 01 - Kharnis]] — primera gema, misión limpia, jefe guardián. Ver [[Sesion 01 - Primera Mision]].
+- [[Mision 01 - Kharnis]] — primera gema, misión limpia, jefe guardián. Ver [[01 - Primera Mision]].
 - [[Mision 02 - Ilsara]] — planeta de nativos primitivos, artefacto desestabilizándose, misión tardía.
 
 ## Disparador de transición al Arco 2

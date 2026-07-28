@@ -17,31 +17,45 @@ tipo: moc
 - [[Borhamus - El Ser|Mitología de Borhamus]], [[El Dios del Tiempo y la Muerte]], [[Los Fragmentos de Alma]], [[Ritual de Invocacion|Ritual de Invocación]]
 - [[Motor de Misiones]] — la fórmula repetible detrás de cada misión de la campaña
 - [[Arco 1 - El Inicio|Arco 1]] / [[Arco 2 - Las Facciones|Arco 2]] / [[Arco 3 - La Decision|Arco 3]] — los 3 arcos narrativos (más el [[Arco 0 - Examen Final (One-Shot)|Prólogo]])
-- [[Ideas Sueltas]] / [[Bitacora de Cambios|Bitácora de Cambios]] — notas de trabajo del GM
+- [[Ideas Sueltas]] / [[Bitacora de Cambios|Bitácora de Cambios]] — notas de trabajo sobre el vault en sí
+- [[Bitacora de Campana/Bitacora de Campana|Bitácora de Campaña]] — memoria narrativa de lo que pasó en mesa, sesión a sesión
 - [[Como usamos COMP-CON]] — qué vive en Obsidian y qué vive en COMP/CON (léela antes de crear un NPC o una sesión con combate)
-
-## Bases de datos (Dataview — se actualizan solas)
-
-En vez de mantener listas a mano, cada tipo de entidad tiene una nota "Database" que arma la tabla leyendo el frontmatter (`tipo:`) de todas las notas de `GM/`. Para crear una entidad nueva, copiar su plantilla y listo — aparece sola en la tabla correspondiente:
-
-- [[Database - NPCs]] (plantilla: [[Plantilla de NPC]])
-- [[Database - Lugares]] (plantilla: [[Plantilla de Lugar]])
-- [[Database - Misiones]] (plantilla: [[Plantilla de Mision]])
-- [[Database - Facciones Rivales]] (plantilla: [[_Plantilla de Faccion]])
-- [[Database - Artefactos]] (plantilla: [[Plantilla de Artefacto]])
-- [[Database - Sesiones]] (plantilla: [[Plantilla de Sesion]])
-- [[Database - Personajes (PJs)]] (plantilla: [[Plantilla de Piloto]])
-- [[Database - Mechas]] (plantilla: [[Plantilla de Mecha]])
 
 ## Mapa de carpetas
 
 ```
-GM/    Una sola carpeta plana, sin subcarpetas. Cada nota se clasifica
-       por su frontmatter `tipo:`, no por dónde vive dentro de la carpeta.
-       Ver las notas "Database - *" de arriba para navegar por tipo.
+Sesiones/    Prep + recap de cada sesión (Plantilla de Sesion)
+NPCs/        Un file por NPC (Plantilla de NPC)
+Lugares/     Planetas y la Custodia — persistente (Plantilla de Lugar)
+Misiones/    Eventos puntuales, cada uno linkea a su Lugar (Plantilla de Mision)
+Facciones/   Las 3 facciones rivales (_Plantilla de Faccion)
+Personajes/  Pilotos (PJs) y sus mechas — narrativa, stats en COMP/CON
+Artefactos/  Los 7 fragmentos + el tracker (Plantilla de Artefacto)
+Mundo/       Lore fijo del setting: Cronología, Glosario, Visión del Setting
+Campana/     Arcos, Motor de Misiones, mitología de Borhamus, estructura real de BorjusCorp
+Bitacora de Campana/   Memoria narrativa acumulada de la campaña
 ```
 
-*(Hasta el 2026-07-28 esto estaba dividido en `GM/` + `Jugadores/` con 17 subcarpetas numeradas entre ambas. Se colapsó todo a una sola carpeta plana — ver [[Bitacora de Cambios|Bitácora de Cambios]] para el porqué.)*
+Más [[Indice GM]], [[Bitacora de Cambios|Bitácora de Cambios]], [[Ideas Sueltas]], [[Como usamos COMP-CON]] y [[Sugerencias de Organizacion (Investigacion)|Sugerencias de Organización]] sueltas en la raíz — son notas de gestión del vault, no de campaña.
+
+## Bases de datos (Dataview — se actualizan solas)
+
+Cada carpeta de entidad tiene su nota "Database" que arma la tabla leyendo el frontmatter (`tipo:`) de esa carpeta. Para crear una entidad nueva, copiar su plantilla y listo — aparece sola en la tabla correspondiente:
+
+- [[Database - NPCs]] (`NPCs/`, plantilla: [[Plantilla de NPC]])
+- [[Database - Lugares]] (`Lugares/`, plantilla: [[Plantilla de Lugar]])
+- [[Database - Misiones]] (`Misiones/`, plantilla: [[Plantilla de Mision]])
+- [[Database - Facciones Rivales]] (`Facciones/`, plantilla: [[_Plantilla de Faccion]])
+- [[Database - Artefactos]] (`Artefactos/`, plantilla: [[Plantilla de Artefacto]])
+- [[Database - Sesiones]] (`Sesiones/`, plantilla: [[Plantilla de Sesion]])
+- [[Database - Personajes (PJs)]] (`Personajes/`, plantilla: [[Plantilla de Piloto]])
+- [[Database - Mechas]] (`Personajes/`, plantilla: [[Plantilla de Mecha]])
+
+*(Hasta el 2026-07-28 esto pasó por dos formas: 17 subcarpetas numeradas divididas entre `GM/`+`Jugadores/`, y después una sola carpeta plana. Se terminó de asentar en estas 10 carpetas por tipo de entidad — ver [[Bitacora de Cambios|Bitácora de Cambios]] para el porqué de cada paso.)*
+
+## Sub-lugares dentro de un planeta
+
+`Lugares/` es plana, pero un planeta puede tener sub-locaciones propias (ej. un obelisco puntual dentro de Kharnis). Convención: nombrar el archivo `"Planeta - Sublugar.md"` (ej. `Kharnis - Obelisco.md`), con un campo `planeta: "[[Kharnis]]"` en su frontmatter, y una línea `⬆ Volver a [[Kharnis]]` arriba de la nota. Se ordenan solos alfabéticamente junto al planeta en el explorador de archivos, y el ida-y-vuelta funciona con click normal de wikilink — no hace falta ninguna subcarpeta.
 
 ## Cómo funciona la campaña, en una frase
 
@@ -71,8 +85,8 @@ Estas son las de mayor impacto si se te escapa algo en mesa sin querer:
 
 | # | Fecha | Arco | Título / resumen breve | LL alcanzado | Notas |
 |---|---|---|---|---|---|
-| 00 | | Prólogo | [[Sesion 00 - Examen Final]] | LL0→1 | |
-| 01 | | Arco 1 | [[Sesion 01 - Primera Mision]] — [[Mision 01 - Kharnis]] | | |
+| 00 | | Prólogo | [[00 - Examen Final]] | LL0→1 | |
+| 01 | | Arco 1 | [[01 - Primera Mision]] — [[Mision 01 - Kharnis]] | | |
 | 02 | | | | | |
 | 03 | | | | | |
 | 04 | | | | | |
@@ -86,7 +100,7 @@ Este vault avanza con supuestos razonables donde el pedido original no especific
 
 - La campaña ocurre en un sistema estelar aislado del resto del setting de Lancer, conectado por una única ruta NHP conocida ("el Corredor"), lo que le da a BorjusCorp control casi monopólico sobre quién entra y sale.
 - BorjusCorp es una corporación de tamaño medio-grande, no una megacorp a escala de las Ocho Grandes de Lancer — más creíble como "empresa regional turbia" que como imperio galáctico.
-- El grupo de PJs se conoció en la academia de pilotos de BorjusCorp (ver [[Sesion 00 - Examen Final]]).
+- El grupo de PJs se conoció en la academia de pilotos de BorjusCorp (ver [[00 - Examen Final]]).
 - Cada PJ tiene su propio tipo de contrato con BorjusCorp — pago grande o cuota de 10 Puntos BORCORP — ver [[Estructura y Jerarquia]].
 
 ## Para completar en la próxima sesión de trabajo

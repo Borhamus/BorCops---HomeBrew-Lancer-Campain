@@ -9,7 +9,7 @@ tipo: database
 
 ```dataview
 TABLE region AS "Región"
-FROM "GM"
+FROM "Lugares"
 WHERE tipo = "lugar" AND !contains(file.name, "Plantilla")
 SORT file.name ASC
 ```

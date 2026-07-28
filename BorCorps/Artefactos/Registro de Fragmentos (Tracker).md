@@ -10,6 +10,17 @@ spoiler: true
 
 Ver [[Los Fragmentos de Alma]] para la explicación conceptual de qué es un fragmento y qué significa cada estado.
 
+## Resumen (se arma solo, lee `estado_fragmento` de cada Misión)
+
+```dataview
+TABLE WITHOUT ID estado_fragmento AS "Estado", length(rows) AS "Cantidad"
+FROM "Misiones"
+WHERE tipo = "mision"
+GROUP BY estado_fragmento
+```
+
+## Detalle (mantener a mano — quién la tiene, notas de contexto)
+
 | #   | Planeta / Misión | Estado      | Recuperado por | Notas                                                                 |
 | --- | ---------------- | ----------- | -------------- | --------------------------------------------------------------------- |
 | 1   | [[Mision 01 - Kharnis]] | contenido   | —              | Pendiente de sesión 1. Si la extracción sale bien, pasa a `recuperado por BorjusCorp` — actualizar tras jugarla. |

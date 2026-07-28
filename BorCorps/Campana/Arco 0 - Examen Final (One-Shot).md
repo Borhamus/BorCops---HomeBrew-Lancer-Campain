@@ -50,5 +50,5 @@ Cerrar la sesión acá, con esa nota fría, antes de pasar al [[Arco 1 - El Inic
 
 ## Ver también
 
-- [[Sesion 00 - Examen Final]] (nota de sesión jugable)
+- [[00 - Examen Final]] (nota de sesión jugable)
 - [[NPCs Clave de la Empresa]]

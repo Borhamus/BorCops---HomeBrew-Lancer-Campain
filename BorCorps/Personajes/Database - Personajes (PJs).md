@@ -13,7 +13,7 @@ TABLE
   LL_actual AS "LL actual",
   tipo_contrato AS "Contrato",
   puntos_borcorp_actual AS "Puntos BORCORP"
-FROM "GM"
+FROM "Personajes"
 WHERE tipo = "pj" AND !contains(file.name, "Plantilla")
 SORT file.name ASC
 ```

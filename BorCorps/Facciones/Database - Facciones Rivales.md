@@ -11,7 +11,7 @@ tipo: database
 TABLE
   metodo AS "Método",
   tono AS "Tono"
-FROM "GM"
+FROM "Facciones"
 WHERE tipo = "faccion-rival" AND !contains(file.name, "Plantilla")
 SORT file.name ASC
 ```

@@ -1,5 +1,6 @@
 ---
-tipo: mundo
+tipo: lugar
+region: "El Corredor (móvil)"
 ---
 
 # La Nave — BCS Custodia
@@ -8,7 +9,7 @@ tipo: mundo
 
 ## Qué es
 
-La nave nodriza donde el escuadrón de los PJs va a vivir, operar y salir a misión a partir de [[Sesion 01 - Primera Mision|la Sesión 1]]. No es una nave de combate de primera línea — es una plataforma de soporte y despliegue de mechs, diseñada para sostener a un escuadrón pequeño en operaciones prolongadas lejos de puertos BorjusCorp: hangar de mechs, módulos habitacionales, enfermería, un puente de mando compacto, y bodega de carga para las "reliquias" recuperadas.
+La nave nodriza donde el escuadrón de los PJs va a vivir, operar y salir a misión a partir de [[01 - Primera Mision|la Sesión 1]]. No es una nave de combate de primera línea — es una plataforma de soporte y despliegue de mechs, diseñada para sostener a un escuadrón pequeño en operaciones prolongadas lejos de puertos BorjusCorp: hangar de mechs, módulos habitacionales, enfermería, un puente de mando compacto, y bodega de carga para las "reliquias" recuperadas.
 
 ## Vida a bordo
 
@@ -23,5 +24,5 @@ La Custodia está al mando de [[VESTA - IA Capitana de la Custodia|VESTA]], una 
 ## Ver también
 
 - [[VESTA - IA Capitana de la Custodia]]
-- [[Sesion 01 - Primera Mision]]
+- [[01 - Primera Mision]]
 - [[BorjusCorp - Fachada Publica]]

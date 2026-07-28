@@ -13,7 +13,7 @@ TABLE
   arco AS "Arco",
   fecha_real AS "Fecha real",
   fecha_en_juego AS "Fecha en juego"
-FROM "GM"
+FROM "Sesiones"
 WHERE tipo = "sesion" AND !contains(file.name, "Plantilla")
 SORT numero ASC
 ```

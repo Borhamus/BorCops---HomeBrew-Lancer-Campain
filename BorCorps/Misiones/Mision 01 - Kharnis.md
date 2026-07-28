@@ -7,7 +7,7 @@ estado_fragmento: contenido
 
 ## Gancho de misión
 
-Contrato estándar de recuperación asignado por el handler a través de [[VESTA - IA Capitana de la Custodia|VESTA]]: descender, llegar a una estructura precursora localizada por sensores orbitales, y extraer el artefacto detectado en su interior — clasificado en los papeles simplemente como "muestra de alto valor arqueológico". Primera misión real del grupo como escuadrón de la [[La Nave - BCS Custodia|Custodia]] (ver [[Sesion 01 - Primera Mision]]).
+Contrato estándar de recuperación asignado por el handler a través de [[VESTA - IA Capitana de la Custodia|VESTA]]: descender, llegar a una estructura precursora localizada por sensores orbitales, y extraer el artefacto detectado en su interior — clasificado en los papeles simplemente como "muestra de alto valor arqueológico". Primera misión real del grupo como escuadrón de la [[La Nave - BCS Custodia|Custodia]] (ver [[01 - Primera Mision]]).
 
 ## Objetivo (para los jugadores)
 
@@ -43,6 +43,6 @@ No aplica como amenaza principal de esta misión — el fragmento llega contenid
 ## Ver también
 
 - [[Kharnis]] — el lugar
-- [[Sesion 01 - Primera Mision]]
+- [[01 - Primera Mision]]
 - [[Registro de Fragmentos (Tracker)]] — SOLO GM
 - [[Los Fragmentos de Alma]] — SOLO GM

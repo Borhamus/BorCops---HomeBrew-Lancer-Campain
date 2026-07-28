@@ -20,7 +20,7 @@ Línea de tiempo de referencia. Las fechas son relativas (Era Corporativa, "EC")
 
 ## Presente — inicio de la campaña
 
-- **Año 0 de campaña**: los PJs se gradúan de la academia de BorjusCorp. Ver [[Sesion 00 - Examen Final]].
+- **Año 0 de campaña**: los PJs se gradúan de la academia de BorjusCorp. Ver [[00 - Examen Final]].
 - A partir de acá, esta sección se completa sesión a sesión — anotar eventos mayores con link a la nota de sesión correspondiente (ver [[Database - Sesiones]]).
 
 ## Ver también

@@ -68,6 +68,16 @@ Cambios:
 - **Se documentó el sistema de contrato de piloto** en [[Estructura y Jerarquia]] (sección "Los dos tipos de contrato de piloto"): cada PJ tiene o bien un pago grande (a él/ella y/o su familia) o una cuota de **10 Puntos BORCORP** (1 por misión exitosa) antes de poder dejar la compañía — dato del usuario, no inventado. [[Plantilla de Piloto]] sumó `tipo_contrato`, `puntos_borcorp_actual`, `puntos_borcorp_objetivo`; [[Database - Personajes (PJs)]] los muestra en la tabla.
 - Se evaluó explícitamente no sumar "stats rápidas" de NPC en Obsidian — el usuario prefirió mantener las notas de NPC 100% narrativas y usar COMP/CON siempre para combate.
 
+## 2026-07-28 — De carpeta única a 10 carpetas por tipo de entidad + Bitácora de Campaña
+
+Al empezar a pensar en la práctica cómo iba a usar el vault, el usuario pidió volver a tener ALGO de carpetas — no las 17 subcarpetas numeradas de antes, pero tampoco una sola carpeta plana con 47 archivos mezclados. Se armaron y confirmaron 3 decisiones de diseño en conjunto:
+
+1. **10 carpetas por tipo de entidad, un solo nivel, sin numeración**: `Sesiones/`, `NPCs/`, `Lugares/`, `Misiones/`, `Facciones/`, `Personajes/`, `Artefactos/`, `Mundo/`, `Campana/`, `Bitacora de Campana/`. El wrapper `GM/` se eliminó — como el vault es 100% del GM, ya no cumplía ninguna función distinguir nada de "GM/". Cada Database ahora apunta `FROM` a su carpeta específica en vez de `FROM "GM"`. Las sesiones 00/01 se renombraron a `00 - Examen Final.md` / `01 - Primera Mision.md` (sin el prefijo "Sesion", ya redundante dentro de la carpeta `Sesiones/`) — se actualizaron todos los wikilinks que las nombraban por el nombre viejo.
+2. **Sub-lugares dentro de un planeta van por nomenclatura + link, no por subcarpeta**: `"Planeta - Sublugar.md"` con un campo `planeta:` en el frontmatter y una línea de vuelta al planeta — se descartó la opción de subcarpeta-por-planeta porque reintroducía profundidad de carpetas que el usuario específicamente quería evitar, y Obsidian ya resuelve la navegación "ir y volver" con wikilinks sin necesitar jerarquía de archivos real.
+3. **Se creó `Bitacora de Campana/`** con un file semilla (`Bitacora de Campana.md`) — memoria narrativa en prosa de lo que pasó en cada sesión, separada por `---`, distinta de la `Bitacora de Cambios` (esa es meta/diseño del vault). El usuario prefirió esto explícitamente por sobre reusar `Database - Sesiones` + el Registro de Fragmentos, aunque ya cubrían buena parte de lo mismo — quedó como carpeta flexible: un solo file por ahora, con la opción abierta de partirlo en un file por sesión más adelante si se vuelve incómodo.
+
+También se le sumó un resumen Dataview (`GROUP BY estado_fragmento`) arriba de la tabla manual del [[Registro de Fragmentos (Tracker)]], para tener el conteo de gemas por estado sin mantenerlo a mano dos veces. Se reclasificó [[La Nave - BCS Custodia]] de `tipo: mundo` a `tipo: lugar` y se movió a `Lugares/`, ya que es el hub móvil de la campaña.
+
 ## Cómo usar esta bitácora
 
 Agregar una entrada nueva (fecha + resumen) cada vez que se tome una decisión de diseño no trivial: cambiar el número de fragmentos, matar a un NPC importante fuera de sesión, redefinir el final, etc. No hace falta registrar cambios menores de redacción.

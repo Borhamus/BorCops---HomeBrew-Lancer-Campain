@@ -17,11 +17,11 @@ Propuesta inicial (editable): **Directora de Operaciones de Campo** asignada esp
 
 ## VESTA — la IA capitana de la nave
 
-Desde [[Sesion 01 - Primera Mision|la Sesión 1]] en adelante, el grupo vive y opera a bordo de la [[La Nave - BCS Custodia|BCS Custodia]] bajo el mando directo de **VESTA**, la IA capitana de la nave — ver su nota completa en [[VESTA - IA Capitana de la Custodia]]. Es la autoridad inmediata del día a día (órdenes de misión, protocolos de a bordo), distinta del handler, que opera desde tierra. Contraste deliberado entre ambas: el handler es la cara humana y cálida de la empresa, VESTA es su cara sistémica — eficiente, nunca cruel, pero un recordatorio constante de que están dentro de una estructura que los observa (reporta rutinariamente indicadores de comportamiento de la tripulación a BorjusCorp).
+Desde [[01 - Primera Mision|la Sesión 1]] en adelante, el grupo vive y opera a bordo de la [[La Nave - BCS Custodia|BCS Custodia]] bajo el mando directo de **VESTA**, la IA capitana de la nave — ver su nota completa en [[VESTA - IA Capitana de la Custodia]]. Es la autoridad inmediata del día a día (órdenes de misión, protocolos de a bordo), distinta del handler, que opera desde tierra. Contraste deliberado entre ambas: el handler es la cara humana y cálida de la empresa, VESTA es su cara sistémica — eficiente, nunca cruel, pero un recordatorio constante de que están dentro de una estructura que los observa (reporta rutinariamente indicadores de comportamiento de la tripulación a BorjusCorp).
 
 ## El representante de cierre del Arco 0
 
-Propuesta inicial (editable): un ejecutivo de rango medio-alto de Recursos Humanos / Legal, que se presenta al final de [[Sesion 00 - Examen Final]] para explicar el contrato obligatorio post-graduación. Frío, cordial, absolutamente inflexible — la cara "corporativa normal" de una injusticia estructural.
+Propuesta inicial (editable): un ejecutivo de rango medio-alto de Recursos Humanos / Legal, que se presenta al final de [[00 - Examen Final]] para explicar el contrato obligatorio post-graduación. Frío, cordial, absolutamente inflexible — la cara "corporativa normal" de una injusticia estructural.
 
 - Rol en la trama: introduce la mecánica del contrato obligatorio (ver [[Estructura y Jerarquia]]) desde el primer día.
 - Puede reaparecer más adelante en momentos de escalada (renegociaciones de contrato, amenazas veladas).

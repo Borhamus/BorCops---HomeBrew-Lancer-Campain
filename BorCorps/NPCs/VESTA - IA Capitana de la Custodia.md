@@ -42,4 +42,4 @@ Es la autoridad inmediata del grupo día a día a bordo de la Custodia — da ó
 
 - [[La Nave - BCS Custodia]]
 - [[NPCs Clave de la Empresa]]
-- [[Sesion 01 - Primera Mision]]
+- [[01 - Primera Mision]]

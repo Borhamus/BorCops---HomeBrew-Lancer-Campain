@@ -12,7 +12,7 @@ TABLE
   lugar AS "Lugar",
   arco AS "Arco",
   estado_fragmento AS "Estado del fragmento"
-FROM "GM"
+FROM "Misiones"
 WHERE tipo = "mision" AND !contains(file.name, "Plantilla")
 SORT file.name ASC
 ```

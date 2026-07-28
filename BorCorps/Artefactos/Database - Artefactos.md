@@ -12,7 +12,7 @@ TABLE
   fragmento_numero AS "Fragmento #",
   estado AS "Estado",
   ubicacion AS "Ubicación"
-FROM "GM"
+FROM "Artefactos"
 WHERE tipo = "artefacto" AND !contains(file.name, "Plantilla")
 SORT fragmento_numero ASC
 ```

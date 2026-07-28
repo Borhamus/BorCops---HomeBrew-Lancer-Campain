@@ -19,7 +19,7 @@ spoiler: true
 El mecanismo central de control de BorjusCorp sobre sus pilotos:
 
 1. **Reclutamiento voluntario**: la academia recluta activamente a jóvenes pilotos prometedores del Corredor con becas, equipo y la promesa de una licencia reconocida. En este punto es un trato genuinamente atractivo y, en apariencia, sin trampa.
-2. **Graduación = contrato "estándar"**: al graduarse (ver [[Sesion 00 - Examen Final|Arco 0]]), todo piloto queda atado a un contrato de servicio obligatorio con BorjusCorp, justificado como "cláusula estándar de la industria" por el costo de la formación recibida. Es legal según el derecho corporativo del Corredor, aunque abusivo.
+2. **Graduación = contrato "estándar"**: al graduarse (ver [[00 - Examen Final|Arco 0]]), todo piloto queda atado a un contrato de servicio obligatorio con BorjusCorp, justificado como "cláusula estándar de la industria" por el costo de la formación recibida. Es legal según el derecho corporativo del Corredor, aunque abusivo.
 3. **Escalada silenciosa**: con cada misión, el contrato se vuelve más restrictivo — cláusulas de exclusividad, penalizaciones económicas imposibles de pagar, reubicación forzosa. Pocos pilotos notan el patrón hasta que ya están atrapados.
 4. **"Bajas" administrativas**: pilotos que empiezan a hacer demasiadas preguntas, o que se acercan demasiado a la verdad sobre los artefactos que recuperan, son "reasignados a otra división" (desaparecidos) o "desvinculados por bajo rendimiento" (asesinados y encubiertos). Ambos eufemismos se usan indistintamente en la correspondencia interna, deliberadamente, para que ni el personal administrativo sepa siempre cuál de los dos está pasando.
 
@@ -36,7 +36,7 @@ Registrar en el frontmatter de cada [[Plantilla de Piloto|piloto]] qué tipo de 
 
 ## Cómo se recluta y controla a los pilotos, en la práctica
 
-- Academia con selección competitiva (esto es lo que se ve en [[Sesion 00 - Examen Final]]).
+- Academia con selección competitiva (esto es lo que se ve en [[00 - Examen Final]]).
 - Escuadrones asignados por la empresa, no elegidos libremente — fricción social entre escuadrones es intencional y forma parte del diseño del one-shot.
 - Handlers de escuadrón (ver [[NPCs Clave de la Empresa]]) que funcionan tanto de superior directo como de "cara amable" del contrato.
 
