@@ -26,8 +26,8 @@ tipo: moc
 ```
 Sesiones/    Prep + recap de cada sesión (Plantilla de Sesion)
 NPCs/        Un file por NPC (Plantilla de NPC)
-Lugares/     Planetas y la Custodia — persistente (Plantilla de Lugar)
-Misiones/    Eventos puntuales, cada uno linkea a su Lugar (Plantilla de Mision)
+Lugares/     Planetas (Plantilla de Planeta) + sub-lugares y la Custodia (Plantilla de Lugar)
+Misiones/    Eventos puntuales, cada uno linkea a su planeta/lugar (Plantilla de Mision)
 Facciones/   Las 3 facciones rivales (_Plantilla de Faccion)
 Personajes/  Pilotos (PJs) y sus mechas — narrativa, stats en COMP/CON
 Artefactos/  Los 7 fragmentos + el tracker (Plantilla de Artefacto)
@@ -43,7 +43,8 @@ Más [[Indice GM]], [[Bitacora de Cambios|Bitácora de Cambios]], [[Ideas Suelta
 Cada carpeta de entidad tiene su nota "Database" que arma la tabla leyendo el frontmatter (`tipo:`) de esa carpeta. Para crear una entidad nueva, copiar su plantilla y listo — aparece sola en la tabla correspondiente:
 
 - [[Database - NPCs]] (`NPCs/`, plantilla: [[Plantilla de NPC]])
-- [[Database - Lugares]] (`Lugares/`, plantilla: [[Plantilla de Lugar]])
+- [[Database - Planetas]] (`Lugares/`, plantilla: [[Plantilla de Planeta]])
+- [[Database - Lugares]] (`Lugares/`, plantilla: [[Plantilla de Lugar]]) — sub-lugares y lugares independientes, no planetas
 - [[Database - Misiones]] (`Misiones/`, plantilla: [[Plantilla de Mision]])
 - [[Database - Facciones Rivales]] (`Facciones/`, plantilla: [[_Plantilla de Faccion]])
 - [[Database - Artefactos]] (`Artefactos/`, plantilla: [[Plantilla de Artefacto]])
@@ -53,14 +54,14 @@ Cada carpeta de entidad tiene su nota "Database" que arma la tabla leyendo el fr
 
 *(Hasta el 2026-07-28 esto pasó por dos formas: 17 subcarpetas numeradas divididas entre `GM/`+`Jugadores/`, y después una sola carpeta plana. Se terminó de asentar en estas 10 carpetas por tipo de entidad — ver [[Bitacora de Cambios|Bitácora de Cambios]] para el porqué de cada paso.)*
 
-## Mundos, lugares independientes, y sub-lugares — todo en `Lugares/`
+## Planetas, lugares independientes, y sub-lugares — todo en `Lugares/`
 
-Un mundo/planeta es un tipo de lugar más — por eso todos conviven en la misma carpeta plana, sin una carpeta "Mundos" separada. La distinción rápida es el campo `categoria_lugar`, visible como columna en [[Database - Lugares]]:
+Dos `tipo:` distintos conviven en la misma carpeta plana (sin una carpeta "Planetas" separada, para no reintroducir subcarpetas):
 
-- **`categoria_lugar: Planeta`** — un mundo en sí mismo (ej. [[Kharnis]], [[Ilsara]]).
-- **`categoria_lugar: Lugar`** — cualquier otra cosa: un lugar independiente que no es un planeta (ej. [[La Nave - BCS Custodia|la Custodia]], el hub móvil), o un sub-lugar dentro de un planeta (ej. un obelisco puntual dentro de Kharnis).
+- **`tipo: planeta`** ([[Plantilla de Planeta]]) — un mundo entero, ej. [[Kharnis]], [[Ilsara]]. Ver [[Database - Planetas]].
+- **`tipo: lugar`** ([[Plantilla de Lugar]]) — cualquier otra cosa: un lugar independiente que no pertenece a ningún planeta (ej. [[La Nave - BCS Custodia|la Custodia]], el hub móvil), o un sub-lugar puntual dentro de un planeta (ej. un obelisco dentro de Kharnis). Ver [[Database - Lugares]].
 
-Cuando un `Lugar` sí pertenece a un `Planeta` específico (no es independiente como la Custodia), completar `pertenece_a_mundo: "[[Kharnis]]"` en su frontmatter — así el GM siempre puede saltar directo ahí con un click. Convención de nombre para sub-lugares: `"Planeta - Sublugar.md"` (ej. `Kharnis - Obelisco.md`) — se ordenan solos alfabéticamente junto a su planeta en el explorador de archivos, sin necesitar ninguna subcarpeta.
+Un `Lugar` que pertenece a un `Planeta` específico completa el campo `planeta: "[[Kharnis]]"` en su frontmatter — así el GM siempre puede saltar directo ahí con un click. Si es independiente (como la Custodia), ese campo queda vacío. Convención de nombre para sub-lugares: `"Planeta - Sublugar.md"` (ej. `Kharnis - Obelisco.md`) — se ordenan solos alfabéticamente junto a su planeta en el explorador de archivos, sin necesitar ninguna subcarpeta.
 
 ## Cómo funciona la campaña, en una frase
 

@@ -1,15 +1,13 @@
 ---
 tipo: lugar
-categoria_lugar: Planeta
-region:
-pertenece_a_mundo:
+planeta:
 ---
 
-*`categoria_lugar` es `Planeta` (un mundo en sí mismo) o `Lugar` (cualquier otra cosa: un sub-lugar dentro de un planeta, o un lugar independiente como la Custodia) — para distinguirlos de un vistazo en [[Database - Lugares]]. Si `categoria_lugar: Lugar` Y además pertenece a un planeta específico (no es independiente), completar `pertenece_a_mundo: "[[NombreDelPlaneta]]"` — así el GM siempre puede saltar directo ahí. Convención de nombre para sub-lugares: `"Planeta - Sublugar.md"`.*
+*Un Lugar es cualquier cosa que NO es un planeta entero: un sub-lugar puntual dentro de un [[Plantilla de Planeta|Planeta]] (ej. un obelisco dentro de Kharnis), o un lugar independiente que no pertenece a ningún planeta (ej. la Custodia, el hub móvil). Si pertenece a un planeta, completar `planeta: "[[NombreDelPlaneta]]"` — así el GM siempre puede saltar directo ahí. Si es independiente, dejar `planeta` vacío. Convención de nombre para sub-lugares: `"Planeta - Sublugar.md"`.*
 
 ## Descripción del lugar
 
-*(entorno, atmósfera, qué lo hace distinto de otros lugares del Corredor — esto no cambia entre misiones)*
+*(entorno, atmósfera, qué lo hace distinto de otros lugares — esto no cambia entre misiones)*
 
 ## Facciones o poder local
 

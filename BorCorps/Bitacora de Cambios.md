@@ -84,6 +84,16 @@ El usuario notó una colisión conceptual: la carpeta `Mundo/` (Cronología, Glo
 
 Además, a pedido del usuario, se agregó el campo `categoria_lugar` (`Planeta` o `Lugar`) a [[Plantilla de Lugar]] como columna visible en [[Database - Lugares]] — antes la distinción "es un mundo vs. cuelga de un mundo" era implícita (campo `pertenece_a_mundo` vacío o no), ahora es explícita y se lee de un vistazo en la tabla. `pertenece_a_mundo` se mantiene, pero solo se completa cuando `categoria_lugar: Lugar` Y pertenece a un planeta específico (no aplica a lugares independientes como la Custodia).
 
+## 2026-07-28 — Planeta como tipo propio, separado de Lugar
+
+Corrección de modelo, a pedido del usuario: `categoria_lugar: Planeta | Lugar` (agregado unas horas antes en esta misma sesión) forzaba dos conceptos distintos dentro de un único `tipo: lugar`. Un planeta *contiene* lugares — no es una variante de lugar, es su propio tipo de entidad. Se corrigió:
+
+- **`tipo: planeta`** (nueva [[Plantilla de Planeta]]) para mundos enteros — [[Kharnis]] e [[Ilsara]] pasaron de `tipo: lugar` + `categoria_lugar: Planeta` a directamente `tipo: planeta`, sin ese campo.
+- **`tipo: lugar`** ([[Plantilla de Lugar]], simplificada) para todo lo que no es un planeta entero: sub-lugares puntuales dentro de uno (campo `planeta:` completo) o lugares independientes como [[La Nave - BCS Custodia]] (campo `planeta:` vacío). El campo se renombró de `pertenece_a_mundo` a simplemente `planeta` — más directo ahora que "planeta" es un tipo con nombre propio.
+- [[Database - Lugares]] se dividió en [[Database - Planetas]] (`tipo: planeta`) y [[Database - Lugares]] (`tipo: lugar`, ahora con columna "Planeta" para ver de un vistazo si es independiente o cuelga de uno) — mismo patrón de "una Database por tipo" que ya se usa en el resto del vault.
+- Ambas siguen viviendo en la carpeta `Lugares/` sin separarse en carpetas — la corrección fue de `tipo:`, no de organización de carpetas.
+- Se sacó el campo `region` de ambas plantillas y de las 3 notas existentes — se había agregado sin un uso concreto (solo había una región, "El Corredor") y el usuario lo marcó como complejidad sin justificar. Regla para adelante: no agregar un campo de frontmatter sin poder explicar para qué sirve todavía.
+
 ## Cómo usar esta bitácora
 
 Agregar una entrada nueva (fecha + resumen) cada vez que se tome una decisión de diseño no trivial: cambiar el número de fragmentos, matar a un NPC importante fuera de sesión, redefinir el final, etc. No hace falta registrar cambios menores de redacción.
