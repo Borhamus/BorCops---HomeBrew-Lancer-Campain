@@ -1,0 +1,11 @@
+# Obsidian local state (machine-specific, not needed to open the vault)
+BorCorps/.obsidian/workspace.json
+BorCorps/.obsidian/workspace-mobile.json
+BorCorps/.obsidian/plugins/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
