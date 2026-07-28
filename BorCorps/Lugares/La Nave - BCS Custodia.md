@@ -1,6 +1,8 @@
 ---
 tipo: lugar
+categoria_lugar: Lugar
 region: "El Corredor (móvil)"
+pertenece_a_mundo:
 ---
 
 # La Nave — BCS Custodia

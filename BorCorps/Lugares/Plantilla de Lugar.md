@@ -1,7 +1,11 @@
 ---
 tipo: lugar
+categoria_lugar: Planeta
 region:
+pertenece_a_mundo:
 ---
+
+*`categoria_lugar` es `Planeta` (un mundo en sí mismo) o `Lugar` (cualquier otra cosa: un sub-lugar dentro de un planeta, o un lugar independiente como la Custodia) — para distinguirlos de un vistazo en [[Database - Lugares]]. Si `categoria_lugar: Lugar` Y además pertenece a un planeta específico (no es independiente), completar `pertenece_a_mundo: "[[NombreDelPlaneta]]"` — así el GM siempre puede saltar directo ahí. Convención de nombre para sub-lugares: `"Planeta - Sublugar.md"`.*
 
 ## Descripción del lugar
 

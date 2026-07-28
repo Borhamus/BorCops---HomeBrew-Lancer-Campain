@@ -1,5 +1,5 @@
 ---
-tipo: mundo
+tipo: ambientacion
 ---
 
 # Visión General del Setting

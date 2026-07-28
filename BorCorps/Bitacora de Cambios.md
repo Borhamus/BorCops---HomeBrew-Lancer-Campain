@@ -78,6 +78,12 @@ Al empezar a pensar en la práctica cómo iba a usar el vault, el usuario pidió
 
 También se le sumó un resumen Dataview (`GROUP BY estado_fragmento`) arriba de la tabla manual del [[Registro de Fragmentos (Tracker)]], para tener el conteo de gemas por estado sin mantenerlo a mano dos veces. Se reclasificó [[La Nave - BCS Custodia]] de `tipo: mundo` a `tipo: lugar` y se movió a `Lugares/`, ya que es el hub móvil de la campaña.
 
+## 2026-07-28 — Renombre de Mundo/ a Ambientacion/ y campo categoria_lugar
+
+El usuario notó una colisión conceptual: la carpeta `Mundo/` (Cronología, Glosario, Visión del Setting) sonaba como si ahí debieran vivir los planetas, cuando en realidad los planetas ya vivían en `Lugares/` (Kharnis, Ilsara, La Nave). Se confirmó que `Lugares/` ya hacía exactamente lo que el usuario pedía — mundos, sub-lugares dentro de un mundo, y lugares independientes como la nave, todo junto y linkeado — así que no hubo que tocar esa carpeta. Se renombró `Mundo/` a `Ambientacion/` (más `tipo: mundo` → `tipo: ambientacion` en sus 3 notas) para eliminar la ambigüedad.
+
+Además, a pedido del usuario, se agregó el campo `categoria_lugar` (`Planeta` o `Lugar`) a [[Plantilla de Lugar]] como columna visible en [[Database - Lugares]] — antes la distinción "es un mundo vs. cuelga de un mundo" era implícita (campo `pertenece_a_mundo` vacío o no), ahora es explícita y se lee de un vistazo en la tabla. `pertenece_a_mundo` se mantiene, pero solo se completa cuando `categoria_lugar: Lugar` Y pertenece a un planeta específico (no aplica a lugares independientes como la Custodia).
+
 ## Cómo usar esta bitácora
 
 Agregar una entrada nueva (fecha + resumen) cada vez que se tome una decisión de diseño no trivial: cambiar el número de fragmentos, matar a un NPC importante fuera de sesión, redefinir el final, etc. No hace falta registrar cambios menores de redacción.

@@ -31,7 +31,7 @@ Misiones/    Eventos puntuales, cada uno linkea a su Lugar (Plantilla de Mision)
 Facciones/   Las 3 facciones rivales (_Plantilla de Faccion)
 Personajes/  Pilotos (PJs) y sus mechas — narrativa, stats en COMP/CON
 Artefactos/  Los 7 fragmentos + el tracker (Plantilla de Artefacto)
-Mundo/       Lore fijo del setting: Cronología, Glosario, Visión del Setting
+Ambientacion/  Lore de referencia (no son lugares): Cronología, Glosario, Visión del Setting
 Campana/     Arcos, Motor de Misiones, mitología de Borhamus, estructura real de BorjusCorp
 Bitacora de Campana/   Memoria narrativa acumulada de la campaña
 ```
@@ -53,9 +53,14 @@ Cada carpeta de entidad tiene su nota "Database" que arma la tabla leyendo el fr
 
 *(Hasta el 2026-07-28 esto pasó por dos formas: 17 subcarpetas numeradas divididas entre `GM/`+`Jugadores/`, y después una sola carpeta plana. Se terminó de asentar en estas 10 carpetas por tipo de entidad — ver [[Bitacora de Cambios|Bitácora de Cambios]] para el porqué de cada paso.)*
 
-## Sub-lugares dentro de un planeta
+## Mundos, lugares independientes, y sub-lugares — todo en `Lugares/`
 
-`Lugares/` es plana, pero un planeta puede tener sub-locaciones propias (ej. un obelisco puntual dentro de Kharnis). Convención: nombrar el archivo `"Planeta - Sublugar.md"` (ej. `Kharnis - Obelisco.md`), con un campo `planeta: "[[Kharnis]]"` en su frontmatter, y una línea `⬆ Volver a [[Kharnis]]` arriba de la nota. Se ordenan solos alfabéticamente junto al planeta en el explorador de archivos, y el ida-y-vuelta funciona con click normal de wikilink — no hace falta ninguna subcarpeta.
+Un mundo/planeta es un tipo de lugar más — por eso todos conviven en la misma carpeta plana, sin una carpeta "Mundos" separada. La distinción rápida es el campo `categoria_lugar`, visible como columna en [[Database - Lugares]]:
+
+- **`categoria_lugar: Planeta`** — un mundo en sí mismo (ej. [[Kharnis]], [[Ilsara]]).
+- **`categoria_lugar: Lugar`** — cualquier otra cosa: un lugar independiente que no es un planeta (ej. [[La Nave - BCS Custodia|la Custodia]], el hub móvil), o un sub-lugar dentro de un planeta (ej. un obelisco puntual dentro de Kharnis).
+
+Cuando un `Lugar` sí pertenece a un `Planeta` específico (no es independiente como la Custodia), completar `pertenece_a_mundo: "[[Kharnis]]"` en su frontmatter — así el GM siempre puede saltar directo ahí con un click. Convención de nombre para sub-lugares: `"Planeta - Sublugar.md"` (ej. `Kharnis - Obelisco.md`) — se ordenan solos alfabéticamente junto a su planeta en el explorador de archivos, sin necesitar ninguna subcarpeta.
 
 ## Cómo funciona la campaña, en una frase
 

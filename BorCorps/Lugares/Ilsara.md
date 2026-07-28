@@ -1,6 +1,8 @@
 ---
 tipo: lugar
+categoria_lugar: Planeta
 region: "El Corredor"
+pertenece_a_mundo:
 ---
 
 *Nombre propuesto, editable: **Ilsara**.*
