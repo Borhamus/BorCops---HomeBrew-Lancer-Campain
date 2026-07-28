@@ -33,6 +33,30 @@ El usuario compartió referencias de otros GMs usando Obsidian para TTRPG y pidi
 - Se agregó el estado `desestabilizándose` a [[Los Fragmentos de Alma]] (intermedio entre `contenido` y `roto`), estrenado en la nueva [[Mision 02 - Ilsara]] — planeta de nativos primitivos cuyo "Faro" se está apagando gradualmente.
 - Se agregó la sección "Consecuencias de éxito / fracaso" como estándar en la plantilla de misión y se retrofiteó en [[Mision 01 - Kharnis]] y el Prólogo (incluida la consecuencia de derrota conectando con [[El Gremio de la Cosecha]]).
 
+## 2026-07-28 — Aplanado total de carpetas + patrón Template/Database con Dataview + git
+
+El usuario pidió una nueva pasada de investigación (inspirada en un video de YouTube sobre el patrón "Template + Database" para TTRPG en Obsidian) porque las 17 subcarpetas numeradas (10 en `GM/`, 6 en `Jugadores/`, más `00-Indice/`) resultaban abrumadoras de navegar. Ver [[Sugerencias de Organizacion (Investigacion)|Sugerencias de Organización]], Ronda 3, para las fuentes.
+
+Cambios:
+
+- **Se eliminaron todas las subcarpetas.** `GM/` y `Jugadores/` ahora son carpetas planas — cada nota vive directo ahí adentro, sin nivel intermedio. La carpeta `00-Indice/` desapareció: `Indice GM.md` y `Sugerencias de Organizacion.md` pasaron a `GM/`, `Indice Jugadores.md` pasó a `Jugadores/`. La separación GM/Jugadores en sí **no se tocó** — sigue siendo la única división real, porque es una cuestión de spoilers, no de organización.
+- **Se reemplazaron los índices manuales por notas "Database" con Dataview**: `Database - NPCs`, `Database - Planetas y Misiones`, `Database - Facciones Rivales`, `Database - Artefactos`, `Database - Sesiones` (en `GM/`) y `Database - NPCs Conocidos`, `Database - Lugares Conocidos`, `Database - Bitacora de Sesiones`, `Database - Personajes (PJs)` (en `Jugadores/`). Cada una es una tabla `dataview` que filtra por el campo `tipo:` que ya existía en el frontmatter de cada plantilla — no hay que tocar ninguna Database a mano al crear una nota nueva, con que tenga el `tipo:` correcto ya aparece solita. Las queries excluyen archivos cuyo nombre empieza con "Plantilla" para que las plantillas no se listen a sí mismas como si fueran instancias.
+- Ningún contenido narrativo cambió — esto fue puramente estructural. Los wikilinks `[[Nombre]]` de Obsidian resuelven por nombre de nota, no por carpeta, así que mover archivos no rompió ningún link existente.
+- **Se inicializó git** en la raíz del proyecto (`E:\BorCorps - Lancer Campain`, ver [[Sugerencias de Organizacion (Investigacion)|Sugerencias de Organización]] para el detalle del `.gitignore`) con un commit baseline antes de aplanar, para poder deshacer si algo salía mal. El objetivo final sigue siendo publicar esto como módulo homebrew narrativo gratuito de Lancer en GitHub (repo: `BorCops---HomeBrew-Lancer-Campain`) — por ahora sin contenido mecánico (LCP/COMP-CON), eso queda para una fase futura si se decide sumarlo.
+
+## 2026-07-28 — Alineación con el vocabulario y sistema real de Lancer (COMP/CON)
+
+El usuario marcó algo importante: Lancer no es D&D, y las plantillas no debían quedar genéricas. Se investigó [dev.compcon.app](https://dev.compcon.app) (la herramienta oficial) y el repo [massif-press/lancer-data](https://github.com/massif-press/lancer-data) (el JSON de datos del core book: frames, sistemas, armas, talentos, backgrounds, core bonuses) para confirmar el vocabulario correcto: Licencia, Frame, NPC Class + Tier, Talento, Core Bonus, Trasfondo — nada de "clase y nivel" ni "armadura" como en D&D.
+
+Cambios:
+
+- [[Plantilla de NPC]] sumó `npc_clase_comp_con`, `tier` y `enlace_comp_con` al frontmatter, más una sección aclarando que la ficha de combate real se arma en el GM Toolkit de COMP/CON, no en Obsidian.
+- [[Plantilla de Piloto]] sumó `frame_principal`, `licencia_activa`, `enlace_comp_con`.
+- Se creó [[Plantilla de Mecha]] (nueva, `tipo: mecha`) — pero es puramente narrativa (apodo, pintura, personalidad si tiene IA), las stats del frame siguen siendo de COMP/CON. Con su [[Database - Mechas]] correspondiente.
+- [[Plantilla de Sesion]] sumó `enlace_encuentro_comp_con` para linkear el Encounter armado en el GM Toolkit cuando la sesión tiene combate.
+- Se creó [[Como usamos COMP-CON]] como nota de referencia única: qué contenido vive en Obsidian vs. en COMP/CON, glosario Lancer, y las fuentes de datos oficiales. Linkeada desde ambos índices.
+- Se dejó anotado que un homebrew mecánico propio (frame o NPC class de BorjusCorp) se empaquetaría a futuro como LCP siguiendo el esquema de `lancer-data` — no se hizo en esta pasada, el alcance actual del módulo sigue siendo solo narrativo.
+
 ## Cómo usar esta bitácora
 
 Agregar una entrada nueva (fecha + resumen) cada vez que se tome una decisión de diseño no trivial: cambiar el número de fragmentos, matar a un NPC importante fuera de sesión, redefinir el final, etc. No hace falta registrar cambios menores de redacción.

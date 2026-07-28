@@ -13,10 +13,18 @@ tipo: moc
 - [[Glosario]] — términos, siglas y nombres propios.
 - [[Cronologia Conocida|Cronología]] — línea de tiempo pública.
 - [[BorjusCorp]] — la corporación empleadora.
-- **NPCs Conocidos** (`Jugadores/03-NPCs Conocidos`) — lo que el grupo sabe de cada personaje que fue apareciendo. Ejemplo: [[VESTA (Conocido)|VESTA]].
-- **Lugares y Misiones Conocidos** (`Jugadores/04-Lugares y Misiones Conocidos`) — lo que el grupo sabe de cada lugar que visitó. Ejemplo: [[Kharnis (Conocido)|Kharnis]].
-- **Bitácora de Sesiones** (`Jugadores/05-Bitacora de Sesiones`) — recap de cada sesión jugada.
-- **Personajes de los Jugadores** (`Jugadores/06-Personajes de los Jugadores`) — fichas de los propios PJs.
+
+## Bases de datos (Dataview — se actualizan solas)
+
+Todo `Jugadores/` es una sola carpeta plana — no hay subcarpetas por tema. Cada tipo de nota se distingue por su frontmatter `tipo:`, y estas tablas lo leen automáticamente:
+
+- [[Database - NPCs Conocidos]] — lo que el grupo sabe de cada personaje que fue apareciendo. Ejemplo: [[VESTA (Conocido)|VESTA]].
+- [[Database - Lugares Conocidos]] — lo que el grupo sabe de cada lugar que visitó. Ejemplo: [[Kharnis (Conocido)|Kharnis]].
+- [[Database - Bitacora de Sesiones]] — recap de cada sesión jugada.
+- [[Database - Personajes (PJs)]] — fichas narrativas de los propios PJs (las estadísticas de piloto/mecha van en COMP/CON).
+- [[Database - Mechas]] — pintura, apodo y personalidad de cada mecha (las stats van en COMP/CON).
+
+Ver [[Como usamos COMP-CON]] para entender qué vive acá y qué vive en la app.
 
 ## Cómo usar esta parte del vault
 

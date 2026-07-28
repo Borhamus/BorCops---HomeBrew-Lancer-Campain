@@ -4,6 +4,7 @@ numero:
 arco:
 fecha_real:
 fecha_en_juego:
+enlace_encuentro_comp_con:
 ---
 
 ## Objetivo de la sesión
@@ -11,6 +12,8 @@ fecha_en_juego:
 *Recordatorio del [[Motor de Misiones]]: objetivo (gema/artefacto o info de una) + método + complicación + consecuencias + chequeo de disparador de arco.*
 
 ## Escenas planificadas
+
+*Si esta sesión tiene combate, armar el Encounter en el GM Toolkit de COMP/CON (NPCs con su Class/Tier, mapa, SITREP) y linkearlo en `enlace_encuentro_comp_con` — ver [[Como usamos COMP-CON]].*
 
 *Balance sugerido: 50% roleplay / 50% un combate — guía, no regla rígida. Algunas sesiones van a ser 100% una cosa u otra.*
 

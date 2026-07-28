@@ -12,6 +12,23 @@ El vault original separaba GM de jugadores solo con un campo `spoiler:` en el fr
 
 Eso es exactamente lo que se implementó acá: la raíz del vault ahora tiene `GM/` y `Jugadores/` como ramas separadas, más una convención de nombres (sufijo `(Conocido)`) para que cada NPC/lugar relevante tenga una nota GM completa y una nota de jugadores que se va llenando *solo* con lo que se reveló en mesa — ver [[Indice GM]] para el detalle del mecanismo. No existe un plugin de Obsidian que automatice el "reveal progresivo"; es un patrón de convención de notas, no de tooling.
 
+## Ronda 3 (2026-07-28): aplanado total + patrón "Template + Database" con Dataview
+
+El usuario vio un video de YouTube de la serie "Obsidian For TTRPG" (canal que hace un video por tipo de entidad: NPC, Settlement, Player...) y notó que el patrón siempre es el mismo: una nota individual por entidad + una nota "Database" que arma una tabla automática con Dataview leyendo el frontmatter. Pidió aplicar esto para bajar la sensación de "mareo" de navegar 17 subcarpetas numeradas.
+
+Fuentes que confirman el mismo patrón en otros vaults de TTRPG:
+
+- [J0shW/obsidian-rpg-vault-template](https://github.com/J0shW/obsidian-rpg-vault-template)
+- [Obsidian TTRPG Tutorials — serie de Dataview](https://obsidianttrpgtutorials.com)
+- [Obsidian-DnD-Character-Sheet (Dataviewjs)](https://github.com/mattclair/Obsidian-DnD-Character-Sheet)
+- [COMP/CON (massif-press/compcon)](https://github.com/massif-press/compcon) — la herramienta oficial de Lancer para fichas de piloto/mecha; se decidió que el vault de Obsidian no duplica ese crunch, solo linkea a COMP/CON.
+
+Decisión tomada (detalle de implementación en [[Bitacora de Cambios|Bitácora de Cambios]]): se eliminaron las 17 subcarpetas numeradas. `GM/` y `Jugadores/` quedaron completamente planas, diferenciadas únicamente por el frontmatter `tipo:`. Las notas "Índice" manuales (`Indice GM`, `Indice Jugadores`) se mantienen como portada/hub, pero las listas de contenido que mantenían a mano se reemplazaron por notas `Database - *` con queries de Dataview — el mismo patrón "Template + Database" del video, aplicado por tipo de entidad (NPCs, Planetas y Misiones, Facciones Rivales, Artefactos, Sesiones, y del lado Jugadores: NPCs Conocidos, Lugares Conocidos, Bitácora de Sesiones, Personajes).
+
+También se inicializó git en la raíz del proyecto para tener un punto de restauración antes de mover archivos en masa (con `.gitignore` excluyendo `.obsidian/workspace.json`, `.obsidian/plugins/` y `.claude/settings.local.json`, ya que son estado local/binarios reinstalables, no contenido de campaña). El repo remoto en GitHub es `Borhamus/BorCops---HomeBrew-Lancer-Campain`.
+
+**Nota sobre el nombre de carpeta local**: el usuario pidió que la carpeta del repo se llame "BorCorp - HomeBrew Lancer", pero el rename falló porque `E:\BorCorps - Lancer Campain` es el *primary working directory* de la sesión de Claude Code (el harness mantiene un handle abierto mientras dura la sesión). Se decidió seguir trabajando con el nombre de carpeta local actual y usar el nombre nuevo solo para el repo remoto de GitHub — el usuario puede renombrar la carpeta local manualmente más adelante, cerrando la sesión primero, si quiere que coincidan.
+
 ## Lo que ya estábamos haciendo bien (sigue vigente)
 
 - **Estructura por carpetas numeradas + notas MOC** ([[Indice GM|Índice GM]] e [[Indice Jugadores|Índice Jugadores]] como hubs): patrón más recomendado para campañas de rol en Obsidian, escala bien a medida que se acumulan sesiones.
