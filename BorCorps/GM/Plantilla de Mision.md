@@ -1,12 +1,9 @@
 ---
-tipo: planeta-mision
+tipo: mision
+lugar:
 arco:
 estado_fragmento: desconocido
 ---
-
-**Nota de jugadores:** *(crear en `Jugadores/04-Lugares y Misiones Conocidos` con la `_Plantilla de Lugar Conocido.md` y linkear acá una vez jugada la misión)*
-
-## Descripción del planeta/locación
 
 ## Gancho de misión
 

@@ -1,16 +1,9 @@
 ---
-tipo: planeta-mision
+tipo: mision
+lugar: "[[Kharnis]]"
 arco: "[[Arco 1 - El Inicio]]"
 estado_fragmento: contenido
 ---
-
-*Nombre del planeta propuesto, editable: **Kharnis**.*
-
-**Nota de jugadores:** [[Kharnis (Conocido)]]
-
-## Descripción del planeta/locación
-
-Luna-selva orbitando un gigante gaseoso, atmósfera pesada y tóxica que obliga a operar en mech desde el descenso. Jungla densa, bioluminiscente en las zonas bajas, cruzada por ruinas precursoras semienterradas bajo la vegetación. Kharnis nunca fue colonizada — BorjusCorp la tiene catalogada como "sitio de interés, clasificación restringida" mucho antes de esta misión. Es la primera vez que el grupo pisa un mundo así: hostil, ajeno, sin ninguna de las comodidades de la academia o de El Corredor habitado.
 
 ## Gancho de misión
 
@@ -38,7 +31,7 @@ No aplica como amenaza principal de esta misión — el fragmento llega contenid
 ## Consecuencias de éxito / fracaso
 
 - **Recuperan la gema y extraen con vida**: BorjusCorp queda satisfecha con la primera misión del escuadrón — refuerza la confianza inicial de [[VESTA - IA Capitana de la Custodia|VESTA]] y del handler en el grupo, con dividendos narrativos más adelante (más autonomía, misiones de mayor perfil).
-- **Escapan sin la gema** (huyen del Centinela sin completar la extracción): la misión se marca como fallida en los registros — no hay castigo dramático inmediato, pero el artefacto queda "pendiente de recuperación" y puede convertirse en gancho de una misión posterior, o en objetivo de otra facción que llegue primero (ver `GM/08-Facciones Rivales`) — el grupo podría reencontrarse con Kharnis más adelante en manos de alguien más.
+- **Escapan sin la gema** (huyen del Centinela sin completar la extracción): la misión se marca como fallida en los registros — no hay castigo dramático inmediato, pero el artefacto queda "pendiente de recuperación" y puede convertirse en gancho de una misión posterior, o en objetivo de otra facción que llegue primero (ver [[Database - Facciones Rivales]]) — el grupo podría reencontrarse con Kharnis más adelante en manos de alguien más.
 - **El Centinela queda destruido/el artefacto se daña en combate**: ver el párrafo anterior — primer indicio anómalo y sin explicar de qué pasa cuando un fragmento se desestabiliza.
 
 ## Pistas sembradas (relacionadas al misterio de Borhamus)
@@ -49,7 +42,7 @@ No aplica como amenaza principal de esta misión — el fragmento llega contenid
 
 ## Ver también
 
+- [[Kharnis]] — el lugar
 - [[Sesion 01 - Primera Mision]]
 - [[Registro de Fragmentos (Tracker)]] — SOLO GM
 - [[Los Fragmentos de Alma]] — SOLO GM
-- [[Kharnis (Conocido)]] — versión de jugadores

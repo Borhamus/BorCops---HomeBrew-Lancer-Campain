@@ -17,7 +17,7 @@ tono:
 
 ## NPCs (para completar más adelante)
 
-*Líderes, recurrentes, enemigos fuertes, personajes que pueden volverse aliados o enemigos según la situación — algunos pueden morir, otros pueden ser clave a lo largo de la campaña. Crear cada uno en `GM/07-NPCs` con la [[Plantilla de NPC]] y linkear acá.*
+*Líderes, recurrentes, enemigos fuertes, personajes que pueden volverse aliados o enemigos según la situación — algunos pueden morir, otros pueden ser clave a lo largo de la campaña. Crear cada uno con la [[Plantilla de NPC]] y linkear acá — ver [[Database - NPCs]].*
 
 ## Ver también
 

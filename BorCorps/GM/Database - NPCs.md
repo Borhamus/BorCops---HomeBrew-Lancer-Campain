@@ -21,4 +21,3 @@ SORT file.name ASC
 
 - [[Plantilla de NPC]]
 - [[NPCs Clave de la Empresa]] — análisis narrativo (qué sabe cada uno), esta tabla es solo el índice rápido
-- [[Database - NPCs Conocidos]] — la versión filtrada, del lado Jugadores

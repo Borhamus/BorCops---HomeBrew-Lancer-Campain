@@ -25,12 +25,13 @@ enlace_encuentro_comp_con:
 
 ## Después de jugar
 
+### Recap
+
+*(qué pasó, en tono narrativo o bullets — dónde quedó el grupo, cabos sueltos que el grupo notó. Sirve para retomar la próxima sesión sin releer todo.)*
+
+### Checklist
+
 - [ ] ¿Se cumplió el disparador de transición al siguiente arco? (ver la nota del arco actual)
 - [ ] Consecuencias de éxito/fracaso de la misión — anotar qué cambió en el mundo.
-
-## Después de jugar: actualizar Jugadores
-
-- [ ] Escribir la Bitácora de esta sesión en `Jugadores/05-Bitacora de Sesiones` (plantilla: `_Plantilla de Bitacora de Sesion.md`).
-- [ ] Crear o actualizar el `(Conocido)` de cada NPC nuevo mencionado en `Jugadores/03-NPCs Conocidos`.
-- [ ] Crear o actualizar el `(Conocido)` de cada lugar/misión nuevo en `Jugadores/04-Lugares y Misiones Conocidos`.
-- [ ] Actualizar la fila de esta sesión en [[Indice GM]] e [[Indice Jugadores]].
+- [ ] Sumar/actualizar la sección "Lo que saben los jugadores" en cada NPC o Lugar que reveló algo nuevo esta sesión.
+- [ ] Actualizar la fila de esta sesión en [[Indice GM]] (tabla de Progreso de sesiones).

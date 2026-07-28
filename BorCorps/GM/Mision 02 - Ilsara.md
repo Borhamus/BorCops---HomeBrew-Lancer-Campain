@@ -1,16 +1,11 @@
 ---
-tipo: planeta-mision
+tipo: mision
+lugar: "[[Ilsara]]"
 arco: "[[Arco 1 - El Inicio]]"
 estado_fragmento: desestabilizándose
 ---
 
-*Nombre del planeta propuesto, editable: **Ilsara**.*
-
-**Nota de jugadores:** *(crear en `Jugadores/04-Lugares y Misiones Conocidos` una vez jugada la misión)*
-
-## Descripción del planeta/locación
-
-Planeta templado, habitado por una población pre-industrial organizada alrededor de "el Faro" — una estructura precursora, en el centro de su asentamiento principal, que históricamente emitía una luz constante y (según su fe) los protegía de "los seres oscuros". El Faro contiene uno de los [[Los Fragmentos de Alma|Fragmentos de Alma]] de Borhamus — nadie en Ilsara lo sabe, para ellos siempre fue simplemente "la luz que los protege".
+El Faro contiene uno de los [[Los Fragmentos de Alma|Fragmentos de Alma]] de Borhamus — nadie en Ilsara lo sabe, para ellos siempre fue simplemente "la luz que los protege".
 
 ## Gancho de misión
 
@@ -53,6 +48,7 @@ Esta misión ES la versión "tardía" del patrón limpia/tardía del [[Arco 1 - 
 
 ## Ver también
 
+- [[Ilsara]] — el lugar
 - [[Arco 1 - El Inicio]]
 - [[Mision 01 - Kharnis]]
 - [[Los Fragmentos de Alma]] — SOLO GM

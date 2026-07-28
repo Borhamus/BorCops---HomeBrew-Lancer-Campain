@@ -27,7 +27,7 @@ Solo que recuperan reliquias/artefactos para BorjusCorp bajo contrato. No hay ra
 
 ## Cómo dosificar el misterio: misiones "limpias" vs. "tardías"
 
-Herramienta de diseño central para este arco (y compartida con el [[Motor de Misiones]]): cada misión de recuperación tiene que funcionar sola como aventura de mechs — el misterio se filtra como textura, nunca como trama principal, hasta el [[Arco 2 - Las Facciones|Arco 2]]. Dos variantes, ambas usando la misma [[Plantilla de Planeta-Mision|plantilla]]:
+Herramienta de diseño central para este arco (y compartida con el [[Motor de Misiones]]): cada misión de recuperación tiene que funcionar sola como aventura de mechs — el misterio se filtra como textura, nunca como trama principal, hasta el [[Arco 2 - Las Facciones|Arco 2]]. Dos variantes, ambas usando la misma [[Plantilla de Mision|plantilla de Misión]]:
 
 - **Misión limpia** (llegan a tiempo, el fragmento sigue contenido): planeta normal, la amenaza es la criatura/tecnología guardiana del artefacto. Ejemplo ya construido: [[Mision 01 - Kharnis]].
 - **Misión tardía** (el artefacto ya estaba roto, se está desestabilizando, o se rompe durante la misión): el planeta ya está corrompido, total o parcialmente — acá entra horror ambiental, sobrevivientes desesperados, monstruos. Ejemplo ya construido: [[Mision 02 - Ilsara]] (el fragmento se está desestabilizando, no roto de golpe — ver el nuevo estado en [[Los Fragmentos de Alma]]).
@@ -45,7 +45,7 @@ Este arco no tiene un número fijo de misiones — se generan con el [[Motor de 
 
 El GM decide libremente cuándo dar esto por cumplido — no hace falta un número fijo de misiones. Se considera que el grupo pasa al [[Arco 2 - Las Facciones|Arco 2]] cuando ocurre alguna de estas dos cosas:
 
-- **Aparece por primera vez una facción rival disputando activamente una gema/artefacto** — no como rumor, como encuentro real en el campo (ver `GM/08-Facciones Rivales`).
+- **Aparece por primera vez una facción rival disputando activamente una gema/artefacto** — no como rumor, como encuentro real en el campo (ver [[Database - Facciones Rivales]]).
 - El grupo aprende algo que no cierra sobre cómo BorjusCorp clasifica ciertos artefactos.
 
 Si ninguna de las dos pasa todavía, el arco sigue — el grupo simplemente encara otra misión con el [[Motor de Misiones]].

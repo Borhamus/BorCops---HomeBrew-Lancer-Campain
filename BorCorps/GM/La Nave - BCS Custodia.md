@@ -6,8 +6,6 @@ tipo: mundo
 
 *Nombre propuesto, editable: "BCS" = BorjusCorp Ship. "Custodia" es un nombre corporativo normal en apariencia — vigilancia y cuidado a la vez, lo cual es más adecuado de lo que la propia empresa admitiría.*
 
-**Nota de jugadores:** [[La Custodia (Conocido)]]
-
 ## Qué es
 
 La nave nodriza donde el escuadrón de los PJs va a vivir, operar y salir a misión a partir de [[Sesion 01 - Primera Mision|la Sesión 1]]. No es una nave de combate de primera línea — es una plataforma de soporte y despliegue de mechs, diseñada para sostener a un escuadrón pequeño en operaciones prolongadas lejos de puertos BorjusCorp: hangar de mechs, módulos habitacionales, enfermería, un puente de mando compacto, y bodega de carga para las "reliquias" recuperadas.
@@ -26,5 +24,4 @@ La Custodia está al mando de [[VESTA - IA Capitana de la Custodia|VESTA]], una 
 
 - [[VESTA - IA Capitana de la Custodia]]
 - [[Sesion 01 - Primera Mision]]
-- [[BorjusCorp]]
-- [[La Custodia (Conocido)]] — versión de jugadores
+- [[BorjusCorp - Fachada Publica]]

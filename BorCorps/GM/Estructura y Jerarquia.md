@@ -25,6 +25,15 @@ El mecanismo central de control de BorjusCorp sobre sus pilotos:
 
 Esta escalada es progresiva a propósito: el Arco I debería sentirse como una carrera dura pero justa. El Arco II es donde el jugador empieza a notar que algo no cierra (compañeros que "renuncian" sin despedirse, cláusulas nuevas que aparecen sin aviso).
 
+### Los dos tipos de contrato de piloto
+
+Cada PJ (y cada NPC piloto de BorjusCorp) firma uno de estos dos tratos al graduarse — se define por personaje, no es uniforme para todo el escuadrón:
+
+- **Pago**: BorjusCorp paga una suma grande de dinero, directamente al piloto y/o a su familia, a cambio de el/los primeros años de servicio. Sin cuota de salida definida — el contrato se renueva o extiende según lo que la empresa decida, lo cual es en sí mismo parte de la trampa (ver escalada silenciosa arriba).
+- **Cuota de Puntos BORCORP**: el piloto acumula **1 Punto BORCORP por cada misión exitosa** (ver [[Motor de Misiones]] para qué cuenta como éxito). Al llegar a **10 Puntos BORCORP**, puede dejar la compañía. Hasta entonces, contractualmente **no puede irse**. En la superficie es el trato "más justo" de los dos — tiene una meta clara y alcanzable — lo cual lo hace un buen gancho de roleplay (¿la empresa realmente deja ir a alguien que llega a 10? ¿qué tan "exitosa" tiene que ser una misión para contar?).
+
+Registrar en el frontmatter de cada [[Plantilla de Piloto|piloto]] qué tipo de contrato tiene y, si es por puntos, cuántos lleva acumulados — ver [[Database - Personajes (PJs)]] para el resumen de todo el escuadrón de un vistazo.
+
 ## Cómo se recluta y controla a los pilotos, en la práctica
 
 - Academia con selección competitiva (esto es lo que se ve en [[Sesion 00 - Examen Final]]).
@@ -33,6 +42,6 @@ Esta escalada es progresiva a propósito: el Arco I debería sentirse como una c
 
 ## Ver también
 
-- [[BorjusCorp]] (fachada pública)
+- [[BorjusCorp - Fachada Publica]]
 - [[NPCs Clave de la Empresa]]
 - [[Verdad Oculta (SOLO GM)]]

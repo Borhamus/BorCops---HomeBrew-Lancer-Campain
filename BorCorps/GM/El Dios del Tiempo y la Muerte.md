@@ -21,7 +21,7 @@ Tras ser absorbido por Borhamus, no se sabe si el Dios del Tiempo y la Muerte "m
 
 ## Ganchos narrativos sugeridos
 
-- Un planeta cuyo ecosistema entero está organizado alrededor del culto (ya extinto o clandestino) a esta entidad — buen candidato para una nota en `06-Planetas y Misiones`.
+- Un planeta cuyo ecosistema entero está organizado alrededor del culto (ya extinto o clandestino) a esta entidad — buen candidato para una nueva [[Plantilla de Lugar|nota de Lugar]] + [[Plantilla de Mision|Mision]].
 - Efectos anómalos ligados a tiempo/memoria en zonas donde hay fragmentos activos o rotos (distorsión temporal local, apariciones, objetos que envejecen mal).
 
 ## Ver también (todos SOLO GM)

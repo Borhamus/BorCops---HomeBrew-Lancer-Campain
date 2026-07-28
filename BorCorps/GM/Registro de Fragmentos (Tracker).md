@@ -26,7 +26,7 @@ Ver [[Los Fragmentos de Alma]] para la explicación conceptual de qué es un fra
 
 ## Cómo usar esta tabla
 
-- Cada fila debería eventualmente linkear a una nota de `06-Planetas y Misiones` (columna "Planeta / Misión") y, cuando exista, a su nota de artefacto en esta misma carpeta (usar la [[Plantilla de Artefacto]]).
+- Cada fila debería eventualmente linkear a una nota de Lugar y a su [[Plantilla de Mision|Mision]] correspondiente (columna "Planeta / Misión") y, cuando exista, a su nota de artefacto (usar la [[Plantilla de Artefacto]]).
 - Actualizar el estado apenas cambie en sesión — es el mejor termómetro de qué tan cerca está el Consejo Fundador de completar el [[Ritual de Invocacion|Ritual de Invocación]] (referencia: necesitan al menos 5 de 7, ver esa nota).
 
 ## Ver también (todos SOLO GM salvo la plantilla)

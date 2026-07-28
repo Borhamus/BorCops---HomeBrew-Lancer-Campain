@@ -57,6 +57,17 @@ Cambios:
 - Se creó [[Como usamos COMP-CON]] como nota de referencia única: qué contenido vive en Obsidian vs. en COMP/CON, glosario Lancer, y las fuentes de datos oficiales. Linkeada desde ambos índices.
 - Se dejó anotado que un homebrew mecánico propio (frame o NPC class de BorjusCorp) se empaquetaría a futuro como LCP siguiendo el esquema de `lancer-data` — no se hizo en esta pasada, el alcance actual del módulo sigue siendo solo narrativo.
 
+## 2026-07-28 — Colapso a vault 100% DM + split Lugar/Mision + sistema de Puntos BORCORP
+
+El usuario paró a repensar la arquitectura de fondo: "¿tiene sentido que haya cosas para los players?". Se verificó el contenido real de las 3 notas `(Conocido)` existentes (VESTA, Kharnis, La Custodia) — estaban vacías, solo placeholders "completar después de jugar". Esa evidencia confirmó que la separación GM/Jugadores era overhead puro para un GM que juega solo: duplicaba una nota por cada NPC/lugar sin que nunca se hubiera aprovechado, porque el grupo nunca va a leer el vault directamente.
+
+Cambios:
+
+- **`Jugadores/` desapareció por completo.** `Glosario`, `Vision General del Setting` y la fachada pública de BorjusCorp (renombrada [[BorjusCorp - Fachada Publica]] para no confundirla con [[Estructura y Jerarquia]]) se mudaron a `GM/` — son contenido real, no descartable. Las 3 notas `(Conocido)` vacías, sus plantillas, `Indice Jugadores` y `Cronologia Conocida` se borraron sin pérdida. El patrón "nota paralela filtrada" se reemplazó por una sección opcional **"## Lo que saben los jugadores"** dentro de la misma nota de NPC/Lugar — una sola fuente de verdad. `Plantilla de Sesion` (y las sesiones 00/01 ya escritas) fundieron el viejo checklist "actualizar Jugadores" en una única sección "Después de jugar" con Recap + Checklist.
+- **Se separó "Planeta-Mision" en dos entidades**: [[Plantilla de Lugar]] (persistente — descripción, facciones locales, notas que se acumulan entre visitas) y [[Plantilla de Mision]] (puntual — gancho, objetivo, consecuencias, con un campo `lugar:` que linkea a su Lugar). Motivo: un mismo planeta puede tener varias misiones a lo largo de la campaña, sobre todo porque el hub de la campaña es la [[La Nave - BCS Custodia|Custodia]] visitando distintos puntos repetidamente. Se retrofiteó [[Kharnis]] e [[Ilsara]] como notas de Lugar nuevas, y se recortaron [[Mision 01 - Kharnis]] / [[Mision 02 - Ilsara]] para ser solo el evento puntual. `Database - Planetas y Misiones` se reemplazó por [[Database - Lugares]] + [[Database - Misiones]].
+- **Se documentó el sistema de contrato de piloto** en [[Estructura y Jerarquia]] (sección "Los dos tipos de contrato de piloto"): cada PJ tiene o bien un pago grande (a él/ella y/o su familia) o una cuota de **10 Puntos BORCORP** (1 por misión exitosa) antes de poder dejar la compañía — dato del usuario, no inventado. [[Plantilla de Piloto]] sumó `tipo_contrato`, `puntos_borcorp_actual`, `puntos_borcorp_objetivo`; [[Database - Personajes (PJs)]] los muestra en la tabla.
+- Se evaluó explícitamente no sumar "stats rápidas" de NPC en Obsidian — el usuario prefirió mantener las notas de NPC 100% narrativas y usar COMP/CON siempre para combate.
+
 ## Cómo usar esta bitácora
 
 Agregar una entrada nueva (fecha + resumen) cada vez que se tome una decisión de diseño no trivial: cambiar el número de fragmentos, matar a un NPC importante fuera de sesión, redefinir el final, etc. No hace falta registrar cambios menores de redacción.

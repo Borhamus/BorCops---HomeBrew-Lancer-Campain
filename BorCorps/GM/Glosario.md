@@ -14,7 +14,7 @@ Términos, siglas y nombres propios de la campaña. Orden alfabético. Agregar e
 
 ## Términos propios de esta campaña
 
-- **BorjusCorp**: la corporación empleadora de los PJs. Ver [[BorjusCorp]].
+- **BorjusCorp**: la corporación empleadora de los PJs. Ver [[BorjusCorp - Fachada Publica|BorjusCorp]].
 - **El Corredor**: el brazo estelar aislado donde ocurre la campaña, conectado al resto del setting por una única ruta NHP. Ver [[Vision General del Setting]].
 - **Borhamus**: entidad mítica antigua, objetivo real de BorjusCorp. Ver [[Borhamus - El Ser]] (SOLO GM).
 - **Fragmento de Alma**: cada uno de los pedazos en los que quedó dividida la esencia de Borhamus tras su derrota. Ver [[Los Fragmentos de Alma]].

@@ -33,12 +33,15 @@ Ver el detalle completo en [[Mision 01 - Kharnis]]:
 - Secuencia de persecución al activarse el enjambre completo.
 - Combate de jefe: el Centinela de Kharnis, 1 contra todo el grupo.
 
-## Notas post-sesión (completar después de jugar)
+## Después de jugar
 
-## Después de jugar: actualizar Jugadores
+### Recap
 
-- [ ] Escribir la Bitácora de la Sesión 1 en `Jugadores/05-Bitacora de Sesiones`.
-- [ ] Completar [[VESTA (Conocido)]] con la primera impresión real que se llevó el grupo.
-- [ ] Completar [[Kharnis (Conocido)]] — qué encontraron, cómo salió el combate contra el Centinela, qué pasó con la gema.
+*(completar después de jugar)*
+
+### Checklist
+
+- [ ] Sumar "Lo que saben los jugadores" en [[VESTA - IA Capitana de la Custodia]] con la primera impresión real que se llevó el grupo.
+- [ ] Sumar "Lo que saben los jugadores" en [[Kharnis]] y en [[Mision 01 - Kharnis]] — qué encontraron, cómo salió el combate contra el Centinela, qué pasó con la gema.
 - [ ] Actualizar [[Registro de Fragmentos (Tracker)]] (SOLO GM) con el estado final del Fragmento 1.
-- [ ] Actualizar la fila de la Sesión 1 en [[Indice GM]] e [[Indice Jugadores]].
+- [ ] Actualizar la fila de la Sesión 1 en [[Indice GM]].

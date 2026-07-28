@@ -8,8 +8,6 @@ tier:
 enlace_comp_con:
 ---
 
-**Nota de jugadores:** *(crear en `Jugadores/` con la [[_Plantilla de NPC Conocido]] y linkear acá una vez que el NPC aparezca en mesa)*
-
 ## Descripción
 
 ## Motivación
@@ -17,6 +15,10 @@ enlace_comp_con:
 ## Qué sabe (y qué no) sobre BorjusCorp/Borhamus
 
 ## Relación con los jugadores
+
+## Lo que saben los jugadores (revelado en mesa, opcional)
+
+*(agregar esta sección solo cuando el NPC aparezca en mesa — qué se reveló, no la verdad completa de arriba)*
 
 ## Ficha mecánica (COMP/CON)
 

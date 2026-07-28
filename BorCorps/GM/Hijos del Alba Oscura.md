@@ -7,7 +7,7 @@ tono: "culto cismático, fanático, muy violento"
 
 ## Quiénes son
 
-Un cisma del propio Consejo Fundador de [[BorjusCorp]] — hace tiempo, una facción interna del culto original rompió relaciones con los fundadores por diferencias sobre *cómo* y *para quién* debía volver Borhamus. Donde el Consejo Fundador juega a largo plazo, con paciencia corporativa y siglos de disfraz, los Hijos del Alba Oscura quieren el regreso ya, sin esperar el proceso "correcto" — y están dispuestos a cualquier costo.
+Un cisma del propio Consejo Fundador de [[BorjusCorp - Fachada Publica|BorjusCorp]] — hace tiempo, una facción interna del culto original rompió relaciones con los fundadores por diferencias sobre *cómo* y *para quién* debía volver Borhamus. Donde el Consejo Fundador juega a largo plazo, con paciencia corporativa y siglos de disfraz, los Hijos del Alba Oscura quieren el regreso ya, sin esperar el proceso "correcto" — y están dispuestos a cualquier costo.
 
 ## Qué quieren con las gemas
 
@@ -27,7 +27,7 @@ La complicación más letal del [[Motor de Misiones|motor de misiones]] cuando a
 
 ## NPCs (para completar más adelante)
 
-*Líderes, recurrentes, enemigos fuertes, personajes que pueden volverse aliados o enemigos según la situación — algunos pueden morir, otros pueden ser clave a lo largo de la campaña. Crear cada uno en `GM/07-NPCs` con la [[Plantilla de NPC]] y linkear acá.*
+*Líderes, recurrentes, enemigos fuertes, personajes que pueden volverse aliados o enemigos según la situación — algunos pueden morir, otros pueden ser clave a lo largo de la campaña. Crear cada uno con la [[Plantilla de NPC]] y linkear acá — ver [[Database - NPCs]].*
 
 ## Ver también
 

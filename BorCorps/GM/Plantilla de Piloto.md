@@ -5,7 +5,12 @@ LL_actual: 0
 frame_principal:
 licencia_activa:
 enlace_comp_con:
+tipo_contrato: puntos_borcorp
+puntos_borcorp_actual: 0
+puntos_borcorp_objetivo: 10
 ---
+
+*`tipo_contrato` es `pago` o `puntos_borcorp` — ver [[Estructura y Jerarquia]], sección "Los dos tipos de contrato de piloto". Si es `pago`, los campos de puntos no aplican (dejar en 0).*
 
 ## Trasfondo
 

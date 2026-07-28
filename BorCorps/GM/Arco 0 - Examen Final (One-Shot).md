@@ -9,7 +9,7 @@ sesiones_estimadas: 1
 
 ## Objetivo narrativo
 
-Introducir a los PJs entre sí como recién graduados de la academia de [[BorjusCorp]], establecer fricción y dinámica de escuadrón, y cerrar con el gancho central de la campaña: el contrato obligatorio. Todo esto sin que el grupo sepa nada todavía sobre [[Borhamus - El Ser|Borhamus]] ni la verdad de la empresa.
+Introducir a los PJs entre sí como recién graduados de la academia de [[BorjusCorp - Fachada Publica|BorjusCorp]], establecer fricción y dinámica de escuadrón, y cerrar con el gancho central de la campaña: el contrato obligatorio. Todo esto sin que el grupo sepa nada todavía sobre [[Borhamus - El Ser|Borhamus]] ni la verdad de la empresa.
 
 ## Tono
 

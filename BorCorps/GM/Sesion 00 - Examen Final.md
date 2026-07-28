@@ -62,11 +62,14 @@ Giro real (Acto 2 del combate): mientras corre la simulación, un grupo de pirat
 
 Objetivo táctico para los PJs: no es solo sobrevivir, es **detener al mech que tiene la información robada (vía hackeo) antes de que escape** — buen gancho para que alguien decida perseguir a ese NPC puntual en vez de quedarse peleando al grueso del grupo. Consecuencias completas de ganar/perder esta persecución en [[Arco 0 - Examen Final (One-Shot)]] (sección "Consecuencias de victoria / derrota").
 
-## Notas post-sesión (completar después de jugar)
+## Después de jugar
 
-## Después de jugar: actualizar Jugadores
+### Recap
 
-- [ ] Escribir la Bitácora de la Sesión 0 en `Jugadores/05-Bitacora de Sesiones`.
-- [ ] Completar [[VESTA (Conocido)]] no aplica todavía (VESTA aparece recién en la Sesión 1) — pero sí crear `(Conocido)` para el instructor/a, el representante de BorjusCorp y cualquier NPC de escuadrón rival que haya tomado peso en mesa.
-- [ ] Actualizar [[Cronologia Conocida]] con la fecha real de graduación.
-- [ ] Actualizar la fila de la Sesión 0 en [[Indice GM]] e [[Indice Jugadores]].
+*(completar después de jugar)*
+
+### Checklist
+
+- [ ] Crear notas completas ([[Plantilla de NPC]]) para el instructor/a, el representante de BorjusCorp y cualquier NPC de escuadrón rival que haya tomado peso en mesa.
+- [ ] Actualizar [[Cronologia]] con la fecha real de graduación.
+- [ ] Actualizar la fila de la Sesión 0 en [[Indice GM]].

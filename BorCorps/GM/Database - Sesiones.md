@@ -20,5 +20,4 @@ SORT numero ASC
 
 ## Ver también
 
-- [[Plantilla de Sesion]]
-- [[Database - Bitacora de Sesiones]] — la versión de recap, del lado Jugadores
+- [[Plantilla de Sesion]] — incluye la sección de recap post-sesión

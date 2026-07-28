@@ -8,7 +8,7 @@ ll_orientativo: "8-12"
 
 ## Objetivo narrativo
 
-Arco final. El grupo tiene (o termina de conseguir en las primeras misiones de este arco) la verdad completa sobre [[Borhamus - El Ser|Borhamus]] y el Consejo Fundador de [[BorjusCorp]], y decide qué hacer al respecto. Debería sentirse impulsado por las decisiones del grupo más que por un guion fijo del GM — la [[Motor de Misiones|misión de la semana]] acá ya no es solo "conseguir una gema", es "conseguir una gema *sabiendo lo que realmente es*".
+Arco final. El grupo tiene (o termina de conseguir en las primeras misiones de este arco) la verdad completa sobre [[Borhamus - El Ser|Borhamus]] y el Consejo Fundador de [[BorjusCorp - Fachada Publica|BorjusCorp]], y decide qué hacer al respecto. Debería sentirse impulsado por las decisiones del grupo más que por un guion fijo del GM — la [[Motor de Misiones|misión de la semana]] acá ya no es solo "conseguir una gema", es "conseguir una gema *sabiendo lo que realmente es*".
 
 ## Tono
 

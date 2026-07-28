@@ -12,7 +12,7 @@ El arco más largo de la campaña, en escala. La rutina establecida en el [[Arco
 
 ## Facciones activas en este arco
 
-Ver `GM/08-Facciones Rivales` para la ficha completa de cada una:
+Ver [[Database - Facciones Rivales]] para la ficha completa de cada una:
 
 - [[Custodios del Silencio]] — quieren destruir las gemas. Antagonistas con código; aliados incómodos posibles si el grupo también prioriza destruir.
 - [[Hijos del Alba Oscura]] — culto cismático fanático y muy violento, rival del Consejo Fundador de BorjusCorp, que también quiere revivir a Borhamus por su cuenta. El polo más peligroso de las tres.

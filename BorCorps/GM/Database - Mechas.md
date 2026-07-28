@@ -12,7 +12,7 @@ TABLE
   piloto AS "Piloto",
   frame AS "Frame",
   fabricante AS "Fabricante"
-FROM "Jugadores"
+FROM "GM"
 WHERE tipo = "mecha" AND !contains(file.name, "Plantilla")
 SORT file.name ASC
 ```

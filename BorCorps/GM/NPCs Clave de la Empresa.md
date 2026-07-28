@@ -6,7 +6,7 @@ spoiler: false
 
 # NPCs Clave de la Empresa
 
-Índice de los NPCs de BorjusCorp con peso narrativo directo sobre el grupo. Cada uno debería eventualmente tener su propia nota completa en `07-NPCs` usando la [[Plantilla de NPC]] — acá va solo el resumen de su rol.
+Índice de los NPCs de BorjusCorp con peso narrativo directo sobre el grupo. Cada uno debería eventualmente tener su propia nota completa usando la [[Plantilla de NPC]] (ver [[Database - NPCs]]) — acá va solo el resumen de su rol.
 
 ## El Handler del escuadrón
 
@@ -34,10 +34,10 @@ Placeholder para 2-3 NPCs que a lo largo del [[Arco 2 - Las Facciones|Arco 2]] y
 - Un/a piloto veterano/a, unos años mayor que los PJs, que sabe que algo le pasó a su antiguo escuadrón y empezó a hacer preguntas — puede convertirse en aliado o en advertencia de qué les pasa a quienes preguntan de más.
 - Un miembro de seguridad interna incómodo con órdenes que no entiende del todo.
 
-Desarrollar cada uno como nota en `07-NPCs` cuando se concreten.
+Desarrollar cada uno con la [[Plantilla de NPC]] cuando se concreten.
 
 ## Ver también
 
-- [[BorjusCorp]]
+- [[BorjusCorp - Fachada Publica|BorjusCorp]]
 - [[Estructura y Jerarquia|Estructura y Jerarquía]]
 - [[NPCs Recurrentes]]

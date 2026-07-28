@@ -4,7 +4,7 @@ tipo: npc
 
 # NPCs Recurrentes
 
-Índice de NPCs que aparecen más de una vez a lo largo de la campaña y no son exclusivos de BorjusCorp (para esos, ver [[NPCs Clave de la Empresa]]). Cada entrada nueva debería eventualmente tener su propia nota completa con la [[Plantilla de NPC]], y su contraparte de jugadores en `Jugadores/03-NPCs Conocidos` (plantilla: `_Plantilla de NPC Conocido.md`).
+Índice de NPCs que aparecen más de una vez a lo largo de la campaña y no son exclusivos de BorjusCorp (para esos, ver [[NPCs Clave de la Empresa]]). Cada entrada nueva debería eventualmente tener su propia nota completa con la [[Plantilla de NPC]] — ver [[Database - NPCs]] para el listado completo.
 
 ## Cómo usar esta nota
 

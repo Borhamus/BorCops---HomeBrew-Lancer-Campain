@@ -15,7 +15,7 @@ Adaptación del universo oficial de **Lancer** (Massif Press) para esta campaña
 
 ## Qué adaptamos para esta campaña
 
-- **El Corredor**: la campaña ocurre en un brazo estelar relativamente aislado, conectado al resto del setting por una única ruta NHP fiable. Esto le da a [[BorjusCorp]] un control casi monopólico sobre el tráfico de pilotos, contratos y recursos de la zona — es plausible que una corporación de tamaño medio domine toda la región sin que las Ocho Grandes le presten demasiada atención.
+- **El Corredor**: la campaña ocurre en un brazo estelar relativamente aislado, conectado al resto del setting por una única ruta NHP fiable. Esto le da a [[BorjusCorp - Fachada Publica|BorjusCorp]] un control casi monopólico sobre el tráfico de pilotos, contratos y recursos de la zona — es plausible que una corporación de tamaño medio domine toda la región sin que las Ocho Grandes le presten demasiada atención.
 - **Planetas de "tecnología olvidada"**: varios mundos del Corredor tienen ruinas precursoras poco exploradas, protegidas por entornos hostiles, tecnología defensiva antigua o directamente por la propia naturaleza corrupta del lugar (ver [[Los Fragmentos de Alma]]).
 - **El mercado de reliquias**: BorjusCorp se presenta públicamente como una empresa de recuperación arqueológico-tecnológica, contratando Lancers para expediciones a estos sitios. Es un modelo de negocio creíble y común en el setting — lo que lo vuelve más fácil de ocultar es exactamente lo que están buscando en realidad.
 
@@ -27,4 +27,4 @@ Empieza como space opera corporativo de bajo perfil — contratos, política de 
 
 - [[Cronologia|Cronología]]
 - [[Glosario]]
-- [[BorjusCorp]]
+- [[BorjusCorp - Fachada Publica|BorjusCorp]]
