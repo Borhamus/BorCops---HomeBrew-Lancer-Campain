@@ -1,8 +1,8 @@
 ---
 tipo: faccion-rival
 spoiler: true
-metodo: "destruir las gemas"
-tono: "antagonistas con código, aliados incómodos posibles"
+metodo: Ocultar las gemas
+tono: Moralmente buenos, buscan evitar el despertar del Señor Oscuro
 ---
 
 ## Quiénes son
@@ -11,26 +11,22 @@ Orden dispersa, no una corporación ni un culto centralizado — más parecida a
 
 ## Qué quieren con las gemas
 
-Encontrarlas y destruirlas — no estudiarlas, no venderlas, no contenerlas "con cuidado" como hace BorjusCorp. Para los Custodios, cualquier gema que sigue existiendo es una bomba con la mecha encendida.
+Encontrarlas y esconderlas (No pueden ser destruidas) — no estudiarlas, no venderlas, y mucho menos usarlas para invocar a Borhamus como buscan algunas corporaciones. Para los Custodios, cualquier gema que sigue existiendo es una bomba con la mecha encendida y necesita ser escondida para que nadie nunca mas sufra sus concecuencias.
+Desarrollaron una tecnologia a lo largo de los siglos con la que cologan las gemas en artefactos para que no escape la energia maligna y la colocan en templos ocultos con trampas para que nadie las robe.
 
 ## Cómo operan (método)
 
-Pequeños equipos especializados, movimiento rápido, priorizan destrucción del artefacto por sobre supervivencia propia o ajena si hace falta. No son sutiles ni políticos — no les importa negociar con gobiernos locales ni con corporaciones, solo llegar primero.
+Pequeños equipos especializados, movimiento rápido, priorizan obtención del artefacto por sobre supervivencia propia o ajena si hace falta. No son sutiles ni políticos — no les importa negociar con gobiernos locales ni con corporaciones, solo llegar primero.
 
-## Relación con BorjusCorp y con las otras facciones
+## Relación con BorCorp y con las otras facciones
 
-Enemigos declarados de BorjusCorp (aunque no saben la magnitud completa del plan del Consejo Fundador — solo que la empresa "acapara" gemas en vez de destruirlas, lo cual ya les basta para odiarlos). Desprecian a [[El Gremio de la Cosecha]] por motivos obvios. Con [[Hijos del Alba Oscura]] la relación es de guerra abierta — son, en cierto sentido, espejos invertidos el uno del otro.
+Son una organización muy discreta y se sabe muy poco, de su gente, su tecnología, aunque sus motivos son simples y obvios. 
 
 ## Cómo se cruzan con el grupo
 
-Casi siempre como complicación en una misión de recuperación: llegan a destruir el artefacto que el grupo vino a buscar. Dependiendo de qué gema esté en juego (¿está rota y corrompiendo el planeta? ¿está contenida y estable?), pueden tener razón. Buen candidato a aliados circunstanciales si el grupo, más adelante, decide que destruir es mejor que dejar que BorjusCorp acumule fragmentos.
+Casi siempre pueden cruzarse cuando el equipo robo un artefacto de un templo oculto, después de todas las trampas, ellos aparecen para intentar detenerlos.
 
 ## NPCs (para completar más adelante)
 
 *Líderes, recurrentes, enemigos fuertes, personajes que pueden volverse aliados o enemigos según la situación — algunos pueden morir, otros pueden ser clave a lo largo de la campaña. Crear cada uno con la [[Plantilla de NPC]] y linkear acá — ver [[Database - NPCs]].*
 
-## Ver también
-
-- [[Arco 2 - Las Facciones]]
-- [[Hijos del Alba Oscura]]
-- [[El Gremio de la Cosecha]]

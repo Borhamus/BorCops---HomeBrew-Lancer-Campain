@@ -10,7 +10,7 @@ Planeta templado, habitado por una población pre-industrial organizada alrededo
 
 ## Facciones o poder local
 
-Población nativa pre-industrial, sin contacto previo significativo con BorjusCorp ni con el resto de El Corredor. No tienen gobierno centralizado más allá de la autoridad religiosa/comunitaria ligada al Faro.
+Población nativa pre-industrial, sin contacto previo significativo con BorCorp ni con el resto de El Corredor. No tienen gobierno centralizado más allá de la autoridad religiosa/comunitaria ligada al Faro.
 
 ## Lugares dentro de este planeta
 

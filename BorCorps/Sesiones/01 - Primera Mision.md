@@ -12,7 +12,7 @@ Establecer la nueva normalidad del grupo como escuadrón activo: la vida a bordo
 
 ## Escenas planificadas
 
-1. **Llegada a la Custodia**: el grupo es trasladado a la nave que va a ser su hogar de acá en adelante. Presentación de VESTA como capitana, recorrida de la nave, primer briefing de misión bajo las reglas de BorjusCorp. Tono: adaptación, todavía cercano al optimismo del Arco 0 — es un ascenso, no una condena (todavía).
+1. **Llegada a la Custodia**: el grupo es trasladado a la nave que va a ser su hogar de acá en adelante. Presentación de VESTA como capitana, recorrida de la nave, primer briefing de misión bajo las reglas de BorCorp. Tono: adaptación, todavía cercano al optimismo del Arco 0 — es un ascenso, no una condena (todavía).
 2. **Viaje a Kharnis**: la mitad de la sesión puede transcurrir en tránsito — buen espacio para roleplay de escuadrón, primeras fricciones o complicidades del grupo ya como equipo fijo, y para que VESTA dé el briefing operativo completo de la misión.
 3. **Descenso y aproximación**: entrada a Kharnis en mechs, primeros encuentros con los enjambres nativos (hostigamiento, no amenaza real todavía) mientras avanzan hacia el obelisco.
 4. **La gema y la persecución**: al tomar el artefacto, el enjambre reacciona en masa — secuencia de persecución con presión de tiempo hacia el punto de extracción o hacia terreno defendible.

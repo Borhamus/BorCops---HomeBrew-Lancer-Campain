@@ -12,7 +12,7 @@ enlace_comp_con:
 
 ## Motivación
 
-## Qué sabe (y qué no) sobre BorjusCorp/Borhamus
+## Qué sabe (y qué no) sobre BorCorp/Borhamus
 
 ## Relación con los jugadores
 

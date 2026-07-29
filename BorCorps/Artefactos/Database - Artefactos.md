@@ -20,4 +20,4 @@ SORT fragmento_numero ASC
 ## Ver también
 
 - [[Plantilla de Artefacto]]
-- [[Registro de Fragmentos (Tracker)]] — la verdad narrativa completa de los 7 fragmentos
+- [[Registro de Fragmentos (Tracker)]] 

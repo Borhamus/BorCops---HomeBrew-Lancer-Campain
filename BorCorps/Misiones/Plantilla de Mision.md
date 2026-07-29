@@ -17,6 +17,6 @@ estado_fragmento: desconocido
 
 ## Consecuencias de éxito / fracaso
 
-*Del [[Motor de Misiones]]: nunca un resultado neutro — anotar qué cambia en el mundo (quién queda con la gema, qué facción gana terreno, qué NPC vive/muere/cambia de bando, cuánto confía BorjusCorp o VESTA en el grupo) tanto si la misión sale bien como si sale mal.*
+*Del [[Motor de Misiones]]: nunca un resultado neutro — anotar qué cambia en el mundo (quién queda con la gema, qué facción gana terreno, qué NPC vive/muere/cambia de bando, cuánto confía BorCorp o VESTA en el grupo) tanto si la misión sale bien como si sale mal.*
 
 ## Pistas sembradas (relacionadas al misterio de Borhamus)

@@ -9,13 +9,13 @@ El Faro contiene uno de los [[Los Fragmentos de Alma|Fragmentos de Alma]] de Bor
 
 ## Gancho de misión
 
-BorjusCorp detecta, por sensores orbitales o por un reporte de un contacto local, que el Faro "dejó de brillar como antes". Oficialmente esto se archiva como "degradación de artefacto de interés arqueológico — evaluar recuperación". Lo que la empresa no dice en el briefing (aunque quizás algún NPC de nivel medio sí lo sepa, ver [[NPCs Clave de la Empresa]]) es que la luz del Faro es literalmente el fragmento manteniéndose contenido — y que se está **desestabilizando**, no simplemente "apagando".
+BorCorp detecta, por sensores orbitales o por un reporte de un contacto local, que el Faro "dejó de brillar como antes". Oficialmente esto se archiva como "degradación de artefacto de interés arqueológico — evaluar recuperación". Lo que la empresa no dice en el briefing (aunque quizás algún NPC de nivel medio sí lo sepa, ver [[NPCs Clave de la Empresa]]) es que la luz del Faro es literalmente el fragmento manteniéndose contenido — y que se está **desestabilizando**, no simplemente "apagando".
 
 ## Objetivo (para los jugadores)
 
 Llegar al asentamiento, evaluar la situación del Faro, y decidir cómo proceder — el contrato no especifica un único curso de acción correcto:
 
-- **Estabilizar el Faro** en el sitio (si es mecánicamente posible en la ficción de mesa) — mantiene protegidos a los nativos, no resuelve el "problema" de BorjusCorp de tener el artefacto recuperado.
+- **Estabilizar el Faro** en el sitio (si es mecánicamente posible en la ficción de mesa) — mantiene protegidos a los nativos, no resuelve el "problema" de BorCorp de tener el artefacto recuperado.
 - **Evacuar a los nativos** y dejar el Faro donde está — prioriza vidas, dificulta el contrato.
 - **Extraer la gema por completo** — cumple el contrato al pie de la letra, pero deja a Ilsara sin protección, y nadie en el grupo sabe todavía qué tan grave es eso a largo plazo.
 
@@ -35,9 +35,9 @@ Esta misión ES la versión "tardía" del patrón limpia/tardía del [[Arco 1 - 
 
 ## Consecuencias de éxito / fracaso
 
-- **Estabilizan el Faro**: Ilsara queda a salvo, los nativos siguen protegidos, pero BorjusCorp no consigue el artefacto — el handler puede mostrarse decepcionado o presionar por una segunda visita más adelante. Buen gancho para que el grupo vuelva a Ilsara en un arco posterior.
+- **Estabilizan el Faro**: Ilsara queda a salvo, los nativos siguen protegidos, pero BorCorp no consigue el artefacto — el handler puede mostrarse decepcionado o presionar por una segunda visita más adelante. Buen gancho para que el grupo vuelva a Ilsara en un arco posterior.
 - **Evacúan y dejan el Faro**: salvan vidas inmediatas, pero el fragmento queda desestabilizado y sin vigilancia — candidato fuerte a terminar `roto` con el tiempo si nadie vuelve. Puede ser el gancho de una misión futura de "contención de emergencia".
-- **Extraen la gema por completo**: cumplen el contrato, BorjusCorp queda satisfecha (refuerza la confianza inicial del grupo, similar a lo que pasa si ganan el Prólogo), pero Ilsara pierde su única protección conocida contra los seres oscuros — consecuencia moral que el grupo carga, no necesariamente mecánica inmediata.
+- **Extraen la gema por completo**: cumplen el contrato, BorCorp queda satisfecha (refuerza la confianza inicial del grupo, similar a lo que pasa si ganan el Prólogo), pero Ilsara pierde su única protección conocida contra los seres oscuros — consecuencia moral que el grupo carga, no necesariamente mecánica inmediata.
 - **Fracasan / el Faro se rompe del todo**: Ilsara pasa a `estado_fragmento: roto` — ver [[Verdad Oculta (SOLO GM)]] para la progresión de corrupción planetaria completa. Primer vistazo directo y sin filtro a lo peor que puede pasar, sin que el grupo todavía entienda el porqué.
 
 ## Pistas sembradas (relacionadas al misterio de Borhamus)

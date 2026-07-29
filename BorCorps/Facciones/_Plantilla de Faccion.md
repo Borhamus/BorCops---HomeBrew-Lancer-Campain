@@ -11,7 +11,7 @@ tono:
 
 ## Cómo operan (método)
 
-## Relación con BorjusCorp y con las otras facciones
+## Relación con BorCorp y con las otras facciones
 
 ## Cómo se cruzan con el grupo
 

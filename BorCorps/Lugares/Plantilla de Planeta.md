@@ -8,7 +8,7 @@ tipo: planeta
 
 ## Facciones o poder local
 
-*(quién manda ahí, quién vive ahí, si hay población nativa o solo instalaciones de BorjusCorp)*
+*(quién manda ahí, quién vive ahí, si hay población nativa o solo instalaciones de BorCorp)*
 
 ## Lugares dentro de este planeta
 

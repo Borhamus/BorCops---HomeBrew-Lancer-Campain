@@ -1,12 +1,12 @@
 ---
 tipo: faccion
-faccion: BorjusCorp
+faccion: BorCorp
 spoiler: false
 ---
 
 # NPCs Clave de la Empresa
 
-Índice de los NPCs de BorjusCorp con peso narrativo directo sobre el grupo. Cada uno debería eventualmente tener su propia nota completa usando la [[Plantilla de NPC]] (ver [[Database - NPCs]]) — acá va solo el resumen de su rol.
+Índice de los NPCs de BorCorp con peso narrativo directo sobre el grupo. Cada uno debería eventualmente tener su propia nota completa usando la [[Plantilla de NPC]] (ver [[Database - NPCs]]) — acá va solo el resumen de su rol.
 
 ## El Handler del escuadrón
 
@@ -17,7 +17,7 @@ Propuesta inicial (editable): **Directora de Operaciones de Campo** asignada esp
 
 ## VESTA — la IA capitana de la nave
 
-Desde [[01 - Primera Mision|la Sesión 1]] en adelante, el grupo vive y opera a bordo de la [[La Nave - BCS Custodia|BCS Custodia]] bajo el mando directo de **VESTA**, la IA capitana de la nave — ver su nota completa en [[VESTA - IA Capitana de la Custodia]]. Es la autoridad inmediata del día a día (órdenes de misión, protocolos de a bordo), distinta del handler, que opera desde tierra. Contraste deliberado entre ambas: el handler es la cara humana y cálida de la empresa, VESTA es su cara sistémica — eficiente, nunca cruel, pero un recordatorio constante de que están dentro de una estructura que los observa (reporta rutinariamente indicadores de comportamiento de la tripulación a BorjusCorp).
+Desde [[01 - Primera Mision|la Sesión 1]] en adelante, el grupo vive y opera a bordo de la [[La Nave - BCS Custodia|BCS Custodia]] bajo el mando directo de **VESTA**, la IA capitana de la nave — ver su nota completa en [[VESTA - IA Capitana de la Custodia]]. Es la autoridad inmediata del día a día (órdenes de misión, protocolos de a bordo), distinta del handler, que opera desde tierra. Contraste deliberado entre ambas: el handler es la cara humana y cálida de la empresa, VESTA es su cara sistémica — eficiente, nunca cruel, pero un recordatorio constante de que están dentro de una estructura que los observa (reporta rutinariamente indicadores de comportamiento de la tripulación a BorCorp).
 
 ## El representante de cierre del Arco 0
 
@@ -38,6 +38,6 @@ Desarrollar cada uno con la [[Plantilla de NPC]] cuando se concreten.
 
 ## Ver también
 
-- [[BorjusCorp - Fachada Publica|BorjusCorp]]
+- [[BorCorp - Fachada Publica|BorCorp]]
 - [[Estructura y Jerarquia|Estructura y Jerarquía]]
 - [[NPCs Recurrentes]]

@@ -3,7 +3,7 @@ tipo: sesion
 numero: 0
 arco: "[[Arco 0 - Examen Final (One-Shot)]]"
 fecha_real:
-fecha_en_juego: "Día de graduación, academia de BorjusCorp"
+fecha_en_juego: "Día de graduación, academia de BorCorp"
 ---
 
 ## Objetivo de la sesión
@@ -16,7 +16,7 @@ Dos partes en una misma sesión: (A) la "sesión cero" real de mesa — alinear 
 
 Basado en [[Vision General del Setting]] — versión sin spoilers, apta para leer en mesa tal cual:
 
-> Son pilotos de mech recién egresados de la academia de BorjusCorp, una corporación de recuperación arqueológico-tecnológica con sede en El Corredor, un brazo estelar conectado al resto del espacio humano por una única ruta de salto. BorjusCorp los reclutó de distintos rincones del espacio con becas y la promesa de una licencia de piloto reconocida — hoy es el examen final de esa formación.
+> Son pilotos de mech recién egresados de la academia de BorCorp, una corporación de recuperación arqueológico-tecnológica con sede en El Corredor, un brazo estelar conectado al resto del espacio humano por una única ruta de salto. BorCorp los reclutó de distintos rincones del espacio con becas y la promesa de una licencia de piloto reconocida — hoy es el examen final de esa formación.
 
 No mencionar nada de [[Borhamus - El Ser|Borhamus]], el Consejo Fundador, ni los fragmentos — el grupo no debería tener ningún gancho hacia eso todavía. Esta sesión es sobre quiénes son sus pilotos y cómo llegaron ahí, no sobre la trama oculta.
 
@@ -24,8 +24,8 @@ No mencionar nada de [[Borhamus - El Ser|Borhamus]], el Consejo Fundador, ni los
 
 Mecánicamente, chargen estándar de Lancer vía COMP/CON — este vault no redefine reglas (`[Definir en COMP/CON: creación de piloto estándar LL0]`). A nivel narrativo, pedirle a cada jugador que resuelva estos puntos usando la [[Plantilla de Piloto]]:
 
-- **De dónde viene**: cada piloto fue "traído de una parte distinta del espacio" a esta academia — pedir un origen concreto (planeta, cultura, facción) que no sea BorjusCorp ni El Corredor. Esto siembra que el grupo es un cruce de gente que normalmente no se hubiera conocido.
-- **Por qué se fue de casa**: qué lo hizo aceptar la beca de BorjusCorp — ambición, escape, deuda, curiosidad, mandato familiar, lo que sea. No hace falta que sepan todavía que se están metiendo en un contrato de por vida.
+- **De dónde viene**: cada piloto fue "traído de una parte distinta del espacio" a esta academia — pedir un origen concreto (planeta, cultura, facción) que no sea BorCorp ni El Corredor. Esto siembra que el grupo es un cruce de gente que normalmente no se hubiera conocido.
+- **Por qué se fue de casa**: qué lo hizo aceptar la beca de BorCorp — ambición, escape, deuda, curiosidad, mandato familiar, lo que sea. No hace falta que sepan todavía que se están metiendo en un contrato de por vida.
 - **Escuadrón de origen**: a qué escuadrón de la academia pertenece durante el examen (ver Parte B, Acto 1) — puede ser el mismo para todo el grupo o estar repartido entre 1-2 escuadrones si el grupo es grande.
 - **Qué espera de la carrera de piloto**: una expectativa concreta (fama, estabilidad, plata para mandar a casa, escapar de algo) que la revelación del Acto 3 le va a arruinar o complicar — esa fricción es el gancho emocional del Arco I.
 
@@ -33,20 +33,20 @@ Mecánicamente, chargen estándar de Lancer vía COMP/CON — este vault no rede
 
 - Van a jugar personajes que **no eligen sus primeras misiones** — trabajan bajo contrato, al menos al principio (ver [[Arco 1 - El Inicio|Arco 1]]). La agencia real del grupo crece con la campaña, no arranca al máximo.
 - El tono empieza liviano/competitivo y se va oscureciendo con los arcos — está bien jugar el Arco 0 casi como comedia de escuela militar; no hace falta anticipar el giro.
-- Las decisiones importan a largo plazo: a quién le tienen confianza dentro de BorjusCorp, qué compañeros cultivan como aliados, van a pagar dividendos (o factura) más adelante.
+- Las decisiones importan a largo plazo: a quién le tienen confianza dentro de BorCorp, qué compañeros cultivan como aliados, van a pagar dividendos (o factura) más adelante.
 
 ## Parte B — El one-shot en ficción
 
 ### Escenas planificadas
 
 1. Briefing pre-examen y fricción social entre escuadrones (roleplay, sin combate).
-2. Ejercicio de simulación de combate que se complica: un grupo de piratas se infiltra de verdad en la simulación para robar información corporativa de BorjusCorp, y el grupo debe derrotarlos.
-3. Representante de BorjusCorp revela el contrato de servicio obligatorio.
+2. Ejercicio de simulación de combate que se complica: un grupo de piratas se infiltra de verdad en la simulación para robar información corporativa de BorCorp, y el grupo debe derrotarlos.
+3. Representante de BorCorp revela el contrato de servicio obligatorio.
 
 ### NPCs presentes
 
 - Instructor/a a cargo del examen — `crear nota en 07-NPCs si va a recurrir más adelante`
-- Representante de BorjusCorp (ver [[NPCs Clave de la Empresa]])
+- Representante de BorCorp (ver [[NPCs Clave de la Empresa]])
 - Escuadrones rivales — placeholder para 1-2 NPCs de escuadrones competidores, útiles como semilla de [[NPCs Recurrentes]]
 - Piratas infiltrados — facción de una sola aparición (o gancho recurrente futuro, ver [[Ideas Sueltas]])
 
@@ -54,7 +54,7 @@ Mecánicamente, chargen estándar de Lancer vía COMP/CON — este vault no rede
 
 Ejercicio de simulación (Acto 1 del combate): oleada de hostiles simulados, estándar, sin riesgo real — sirve para que el grupo aprenda sus mechs y se ambiente. `[Definir en COMP/CON: NPCs simulados, nivel LL0-1]`.
 
-Giro real (Acto 2 del combate): mientras corre la simulación, un grupo de piratas se infiltra físicamente en el sistema de la academia para robar datos de BorjusCorp — el simulacro se interrumpe y la amenaza pasa a ser real:
+Giro real (Acto 2 del combate): mientras corre la simulación, un grupo de piratas se infiltra físicamente en el sistema de la academia para robar datos de BorCorp — el simulacro se interrumpe y la amenaza pasa a ser real:
 
 - 2-3 NPCs `[Definir en COMP/CON: NPC clase Assault, nivel apropiado a LL0-1]` — el grueso del equipo de asalto pirata.
 - 1 NPC de rol/clase distinto `[Definir en COMP/CON]` — quien lleva el intento de robo de datos (hackeo/extracción), prioriza huir con la información antes que pelear.
@@ -70,6 +70,6 @@ Objetivo táctico para los PJs: no es solo sobrevivir, es **detener al mech que 
 
 ### Checklist
 
-- [ ] Crear notas completas ([[Plantilla de NPC]]) para el instructor/a, el representante de BorjusCorp y cualquier NPC de escuadrón rival que haya tomado peso en mesa.
-- [ ] Actualizar [[Cronologia]] con la fecha real de graduación.
+- [ ] Crear notas completas ([[Plantilla de NPC]]) para el instructor/a, el representante de BorCorp y cualquier NPC de escuadrón rival que haya tomado peso en mesa.
+- [ ] Actualizar [[Contexto de la Campaña]] con la fecha real de graduación.
 - [ ] Actualizar la fila de la Sesión 0 en [[Indice GM]].

@@ -6,11 +6,11 @@ tipo: planeta
 
 ## Descripción del planeta
 
-Luna-selva orbitando un gigante gaseoso, atmósfera pesada y tóxica que obliga a operar en mech desde el descenso. Jungla densa, bioluminiscente en las zonas bajas, cruzada por ruinas precursoras semienterradas bajo la vegetación. Kharnis nunca fue colonizada — BorjusCorp la tiene catalogada como "sitio de interés, clasificación restringida". Es hostil, ajeno, sin ninguna de las comodidades de la academia o de El Corredor habitado.
+Luna-selva orbitando un gigante gaseoso, atmósfera pesada y tóxica que obliga a operar en mech desde el descenso. Jungla densa, bioluminiscente en las zonas bajas, cruzada por ruinas precursoras semienterradas bajo la vegetación. Kharnis nunca fue colonizada — BorCorp la tiene catalogada como "sitio de interés, clasificación restringida". Es hostil, ajeno, sin ninguna de las comodidades de la academia o de El Corredor habitado.
 
 ## Facciones o poder local
 
-Sin población. Solo BorjusCorp tiene registro del sitio (clasificación restringida) — no se sabe si alguna facción rival lo conoce todavía.
+Sin población. Solo BorCorp tiene registro del sitio (clasificación restringida) — no se sabe si alguna facción rival lo conoce todavía.
 
 ## Lugares dentro de este planeta
 

@@ -16,7 +16,7 @@ puntos_borcorp_objetivo: 10
 
 ## Escuadrón de origen (Arco 0)
 
-## Motivación personal / por qué le importa el conflicto con BorjusCorp
+## Motivación personal / por qué le importa el conflicto con BorCorp
 
 ## Arco personal sugerido
 

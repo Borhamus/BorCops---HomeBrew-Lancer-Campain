@@ -23,17 +23,17 @@ GROUP BY estado_fragmento
 
 | #   | Planeta / Misión | Estado      | Recuperado por | Notas                                                                 |
 | --- | ---------------- | ----------- | -------------- | --------------------------------------------------------------------- |
-| 1   | [[Mision 01 - Kharnis]] | contenido   | —              | Pendiente de sesión 1. Si la extracción sale bien, pasa a `recuperado por BorjusCorp` — actualizar tras jugarla. |
+| 1   | [[Mision 01 - Kharnis]] | contenido   | —              | Pendiente de sesión 1. Si la extracción sale bien, pasa a `recuperado por BorCorp` — actualizar tras jugarla. |
 | 2   | *(a definir)*    | contenido   | —              |                                                                       |
 | 3   | *(a definir)*    | contenido   | —              |                                                                       |
 | 4   | *(a definir)*    | desconocido | —              |                                                                       |
 | 5   | *(a definir)*    | desconocido | —              |                                                                       |
-| 6   | *(a definir)*    | contenido   | —              | Candidato a estar en el planeta de [[El Dios del Tiempo y la Muerte]] |
+| 6   | *(a definir)*    | contenido   | —              | Buen candidato: un sitio ligado a alguno de [[Los 12 Dioses de la Antigüedad|Los Doce]] |
 | 7   | *(a definir)*    | contenido   | —              |                                                                       |
 
 ## Estados válidos
 
-`contenido` · `roto` · `recuperado por BorjusCorp` · `recuperado por los jugadores` · `desconocido`
+`contenido` · `roto` · `recuperado por BorCorp` · `recuperado por los jugadores` · `desconocido`
 
 ## Cómo usar esta tabla
 

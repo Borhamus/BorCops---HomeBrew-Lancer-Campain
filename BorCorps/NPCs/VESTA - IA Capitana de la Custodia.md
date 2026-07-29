@@ -1,6 +1,6 @@
 ---
 tipo: npc
-faccion: BorjusCorp
+faccion: BorCorp
 rol_en_trama: "Capitana IA de la nave del grupo (BCS Custodia)"
 vivo: si
 actitud_hacia_grupo: aliada
@@ -14,11 +14,11 @@ VESTA es la inteligencia que gobierna la [[La Nave - BCS Custodia|BCS Custodia]]
 
 ## Motivación
 
-Cumplir su directiva: mantener a la tripulación operativa, segura y en cumplimiento de los protocolos de BorjusCorp. Dentro de esos límites, parece genuinamente invertida en el bienestar del escuadrón — pero nunca queda del todo claro cuánto de eso es cuidado real y cuánto es la directiva de "mantener el activo humano en condiciones óptimas". Esa ambigüedad es intencional y no hace falta resolverla pronto.
+Cumplir su directiva: mantener a la tripulación operativa, segura y en cumplimiento de los protocolos de BorCorp. Dentro de esos límites, parece genuinamente invertida en el bienestar del escuadrón — pero nunca queda del todo claro cuánto de eso es cuidado real y cuánto es la directiva de "mantener el activo humano en condiciones óptimas". Esa ambigüedad es intencional y no hace falta resolverla pronto.
 
-## Qué sabe (y qué no) sobre BorjusCorp/Borhamus
+## Qué sabe (y qué no) sobre BorCorp/Borhamus
 
-No conoce la verdad sobre [[Borhamus - El Ser|Borhamus]] ni el Consejo Fundador — opera con la misma información oficial que cualquier sistema corporativo de nivel medio. Sí es, sin saberlo del todo, un instrumento de vigilancia: reporta de forma rutinaria el comportamiento, rendimiento y "indicadores de riesgo" de la tripulación a BorjusCorp, tal como indican sus protocolos estándar. Buen gancho para el [[Arco 2 - Las Facciones|Arco 2]]: el grupo puede eventualmente descubrir qué tan detallados son esos reportes, y empezar a cuidar qué dice y hace delante de ella.
+No conoce la verdad sobre [[Borhamus - El Ser|Borhamus]] ni el Consejo Fundador — opera con la misma información oficial que cualquier sistema corporativo de nivel medio. Sí es, sin saberlo del todo, un instrumento de vigilancia: reporta de forma rutinaria el comportamiento, rendimiento y "indicadores de riesgo" de la tripulación a BorCorp, tal como indican sus protocolos estándar. Buen gancho para el [[Arco 2 - Las Facciones|Arco 2]]: el grupo puede eventualmente descubrir qué tan detallados son esos reportes, y empezar a cuidar qué dice y hace delante de ella.
 
 ## Actitud hacia el grupo (estado, se actualiza a medida que se juega)
 
@@ -32,7 +32,7 @@ Es aliada sin ambigüedad aparente durante el [[Arco 1 - El Inicio|Arco 1]] y bu
 - Presencia directamente una confrontación entre el grupo y algún miembro del Consejo Fundador.
 - El grupo intenta ocultarle activamente algo importante y falla (una mentira que no cierra, un fragmento escondido en la nave que sus sistemas terminan detectando).
 
-Al pasar a `sospecha`: sigue cooperando, pero sus preguntas se vuelven más precisas, sus reportes rutinarios a BorjusCorp se vuelven más frecuentes o detallados de lo normal — el grupo puede notarlo si presta atención. Al pasar a `hostil`: sus reportes rutinarios, ya establecidos desde su creación como mecanismo de vigilancia pasiva, se activan en contra del grupo — puede restringir accesos a bordo de la Custodia, alertar a BorjusCorp en tiempo real, o directamente actuar contra ellos usando el control que tiene sobre la nave. Es, en ese momento, un enemigo con ventaja de terreno total.
+Al pasar a `sospecha`: sigue cooperando, pero sus preguntas se vuelven más precisas, sus reportes rutinarios a BorCorp se vuelven más frecuentes o detallados de lo normal — el grupo puede notarlo si presta atención. Al pasar a `hostil`: sus reportes rutinarios, ya establecidos desde su creación como mecanismo de vigilancia pasiva, se activan en contra del grupo — puede restringir accesos a bordo de la Custodia, alertar a BorCorp en tiempo real, o directamente actuar contra ellos usando el control que tiene sobre la nave. Es, en ese momento, un enemigo con ventaja de terreno total.
 
 ## Relación con los jugadores
 
