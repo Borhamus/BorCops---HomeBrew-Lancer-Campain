@@ -15,11 +15,11 @@ Sin población. Solo BorCorp tiene registro del sitio (clasificación restringid
 
 ## Historial de misiones acá
 
-- [[Mision 01 - Kharnis]] — primera misión real del escuadrón, recuperación del Fragmento #1.
+- [[Session 01]] — primera misión real del escuadrón, recuperación del Fragmento #1.
 
 ## Notas persistentes
 
-*(completar según cómo termine [[Mision 01 - Kharnis]] — ej. si el Centinela queda destruido, si el sitio queda "conocido" para otras facciones)*
+*(completar según cómo termine [[Session 01]] — ej. si el Centinela queda destruido, si el sitio queda "conocido" para otras facciones)*
 
 ## Lo que saben los jugadores (revelado en mesa, opcional)
 
