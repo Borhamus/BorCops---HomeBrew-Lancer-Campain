@@ -1,81 +1,94 @@
+# Escena 0 - Introducción
+
+Phobitus es un mundo agonizante bajo un cielo permanentemente teñido de rojo.
+
+Su gravedad es el doble de la que los humanos de la Tierra tienen y su entorno es uno de los más hostiles de todo el Corredor.
+
+En este inhóspito y hostil planeta existe una única ciudadela, llamada por la gente de este lugar, los phebianos, el **"Sacrarium"**, una fortaleza-catedral superantigua y resistente.
+
+El último bastión de una raza que vivió mejores épocas, hoy al borde de la extinción.
+
+Su gente, con el pasar de la historia, se ha obsesionado casi religiosamente con las modificaciones corporales utilizando tecnología avanzada que fue desarrollada y perfeccionada hace tantos años, que hoy en día es considerada una posesión sagrada del pueblo phebiano.
+
+Guerreros ultrabélicos por naturaleza. La superviviencia ha dominado sus vidas y se ha adentrado en ellas tanto como para regir su modo de vida. Los phebianos su alzan con orgullo, e incluso soberbia, ante el resto de razas que se encuentran en El Corredor, como seres despiadados y calculadores que esparcen un aura dominante a cualquier terreno o espacio en el que se encuentren, siempre que deseen que su presencia sea notada, ya que además de expertos en artes bélicas, también son depredadores feroces, capaces de esfumarse en el aire mismo si su objetivo así lo requiere.
+
+La sangre de sus antiguos líderes conquistadores aún corre por cada uno de ellos, atrayéndolos inevitablemente a la búsqueda de poder y obsesionándolos con recuperar la grandeza que logró alguna vez alzarlos en el pináculo de la historia de las civilizaciones antiguas de El Corredor.  
+
+Tal es el punto de su obsesión que, poco a poco, sus intensos entrenamientos o sesiones de rituales donde se incrustan tecnología "sagrada" para ellos, con un ratio de éxito bajo, han hecho que, con el pasar de los siglos, los pocos seres phebianos que quedan sean algo irreconocible de un humano tradicional. Tienen el cuerpo modificado con tecnología avanzada pero desconocida, en partes que quizás estén bien... o no; ni ellos podrían saberlo, pero para ellos es sagrado e incuestionable.
+
+Son seres violentos, cínicos y de larga vida. Su mera presencia genera una sensación de poder en el entorno cuando uno de ellos está cerca, y se dice que un soldado phebiano es equivalente a 500 soldados humanos o más.
+
+BorCorp llegó a ellos con una proposición: que entrenaran a sus futuros pilotos a cambio de valiosos recursos, tecnología y materia prima que necesitarían.
+
+En su apogeo, antes de que Phobitus empezara a morir, los phebianos fueron un pueblo extraordinariamente poderoso. Algo de esa herencia sigue intacto en su disciplina, en cómo entrenan y en cómo aguantan lo que ningún otro recluta de otro mundo soportaría sin quebrarse.
+
+Generaciones enteras sobreviviendo al borde de la extinción forjaron un temple que ninguna academia corporativa podría replicar artificialmente.
+
+BorCorp, a lo largo de los siglos, ha creado academias de pilotos en planetas con situaciones parecidas para formar siempre a lo mejor de lo mejor.
+
 ---
 
-## Nota para el GM (no leer en voz alta)
+# Escena 1 — Convocatoria
 
-Phobitus es un mundo agonizante bajo un cielo permanentemente teñido de rojo — no hay registro fiable de si esa herida en el cielo es fenómeno atmosférico, cicatriz orbital o algo peor. Su única ciudad que aún merece el nombre es el Sacrarium: una fortaleza-catedral de agujas negras y vitrales que sangran luz carmesí, el último lugar de Phobitus donde la humanidad — modificada, aumentada, injertada a su propia supervivencia — todavía reza.
+El amanecer en Phobitus se filtra a través de vitrales tan antiguos como el propio Sacrarium y tiñe de un carmesí espeso el acero negro de los pasillos: una luz lenta, casi pesada, que anuncia sin palabras el inicio del alistamiento militar de la mañana.
 
-Los Phebianos creen que su mundo carga una maldición, y que esa maldición es, literalmente, una cuenta regresiva hasta el fin de Phobitus. No hablan de ella con extraños. No hablan de ella casi ni entre ellos.
+Desde los dormitorios de hierro, fríos y negros, una campana resuena por los pasillos de los reclutas. Es el aviso de que hay que presentarse de inmediato en la sala de eventos, sin demoras. Todos los cadetes se preparan y forman filas en la sala.
 
-Lo que BorCorp encontró acá no fue una población desesperada a la que rescatar — fue algo mucho más valioso para sus propósitos: la mejor cantera de Lancers de la galaxia. En su apogeo, antes de que Phobitus empezara a morir, los Phebianos fueron un pueblo extraordinariamente poderoso — algo de esa herencia sigue intacto en su disciplina, en cómo entrenan, en cómo aguantan lo que ningún otro recluta de otro mundo aguantaría sin quebrarse. Generaciones enteras sobreviviendo al borde de la extinción forjaron un temple que ninguna academia corporativa podría replicar artificialmente. BorCorp lo sabe, y lo explota sin culpa: entrenar acá, bajo condiciones que en cualquier otro mundo se considerarían inhumanas, produce pilotos de una resistencia que en ningún otro lugar del Corredor se consigue igual.
+Allí, los cadetes pueden ver cómo llegan líderes de BorCorp con nuevos reclutas que se unen a las filas de formación. Luego, los líderes de BorCorp se quedan hablando con los líderes phebianos.
 
-A cambio del acceso a esa cantera — reclutas, instalaciones, la disciplina Phebiana como instructores — BorCorp ofrece lo único que Phobitus todavía quiere: la posibilidad, nunca la promesa, de encontrar una cura para la maldición. Un trato desigual disfrazado de alianza, exactamente como a BorCorp le gusta operar en cada mundo donde pone un pie.
+Pronto se activan los equipos de sonido y uno de los líderes phebianos dice:
 
-Los jugadores no deberían saber nada de esto con precisión todavía. Lo que sigue es lo que efectivamente pueden ver, oír y vivir hoy — el resto es textura ambiental que un Phebiano nunca va a explicar del todo, ni aunque se lo pregunten directamente.
+> "Si bien para nosotros, la verdadera raza de guerreros, creemos que ustedes aún no están listos para ser considerados guerreros, o siquiera para recibir los regalos de nuestra raza para su mejora... sus líderes consideran que ya están aptos para formar parte de su equipo."
 
-De hecho es una raza, ultra belica y peligrosa, por lo que se le suele tener mucho respeto y son fanaticos religiosos por lo cual ser su aliado, dentro de sus parametros es muy util e importante para BorCorp.
+Recorre con la mirada a los 60 cadetes formados, uno por uno, con expresión seria.
 
----
+> "Para la evaluación formarán equipos de tres a cinco cadetes. Les daremos un día libre para que los nuevos reclutas se aclimaten y se conozcan entre ustedes, porque serán ustedes quienes decidirán la composición de los equipos."
 
-## Escena 1 — Convocatoria
+> "Dicho esto, retírense. Tienen el día libre. Informen a sus nuevos compañeros qué lugares tienen permitidos y cuáles no. La sala 34 está habilitada para los nuevos. Retírense."
 
-> **Leer en voz alta:**
-> 
-> En algún pliegue del universo infinito se extiende una región que los mapas de los navegantes llaman El Corredor: cientos de mundos separados por unos pocos años luz, cada uno cargando su propia herida, su propia historia, su propio dios roto.
-> 
-> Uno de esos mundos es rojo y negro. El clima lo talla como un escultor furioso; la física misma parece llevarle rencor. Se llama Phobitus, y se niega a morir.
-> 
-> Sus habitantes aprendieron el idioma de la supervivencia hace tanto que ya no lo distinguen de sí mismos — piel curtida por generaciones al filo de la extinción, huesos que cargan tecnología olvidada, hoy venerada como reliquia sagrada porque nadie recuerda ya cómo construirla, solo cómo rezarle. Sus manuscritos hablan de otro tiempo: naves de guerra que cruzaban sistemas enteros, cinco pilotos capaces de doblegar un planeta ajeno con una sola nave de carga como flota. Los manuscritos los llaman los Dioses de la Guerra Phebianos.
-> 
-> Eso fue hace siglos.
-> 
-> La codicia hizo su trabajo. La política hizo el resto. Una guerra que ningún superviviente cuenta completa arrastró a los Phebianos al borde mismo de dejar de existir como pueblo, como especie pensante, como algo con nombre. De todo lo que fueron, hoy queda un único bastión — un puño cerrado contra el cielo que se llama el Sacrarium, y que es, sin metáfora posible, todo lo que les queda.
+Con eso, el líder se da vuelta y comienza a hablar con uno de los líderes de BorCorp que vino junto a los nuevos cadetes.
+
+# Fase de Creación de Personajes
+
+Este es el momento para presentarse y decidir qué personaje van a jugar y qué mech van a usar.
+
+Todos comienzan con Licencia Nivel 0.
+
+Pueden ser cadetes que pasaron 3 años humanos (1 año phebiano) entrenando aqui, o de otro planeta de una academia de entrenamiento diferente, pero siosi deben haber pasado 3 años humanos entrenando para ser lancer bajo la organización de BorCorp.
+
+## Recamara, Camaraderia y Entrenamiento
+
+Los cadetes mas antiguos del lugar indicaron a los nuevos como llegar a la sala 34 y se les indico como funciona **"Sacrarium"** para los cadetes.
+La habitación al igual que muchas otras están hechas de acero negro, incluido las camas, los muebles, todo esta hecho de un solo material como si fuese un solo y único objeto solido.
+
+Nota al DM: 
+acá podes crear NPC's para hablar con los players, te dejo libertad de crear lo que quieras y que se lleven bien con los cadetes players, y otro grupo que se lleven mal, para generar una dinámica de discusión.
+A continuación pueden ir a diferentes salas:
+- Sala de Maquinas para entrenar (Gim).
+- Sala de entrenamiento de tiro.
+- Sala Biblioteca.
+- Sala Enfermería.
+- Sala de talleres.
+- Sala Comedor.
+- Dormitorios.
+- Hangar (Para aprender a construir y reparar mechs)
+- Sala de Simulaciones.
+
+Pueden explorar, hacer cosas o irse a dormir, mañana a la mañana es el evento donde se hara el evento para los cadetes, donde se los pondra a prueba.
 
 
-> El amanecer en Phobitus se filtra a través de vitrales tan antiguos como el propio Sacrarium, y tiñe de un carmesí espeso el acero negro de los pasillos — luz lenta, casi pesada, que anuncia sin palabras el inicio del alistamiento militar de la mañana.
-> 
-> Desde los dormitorios de hierro, fríos y negros, una campana resuena por los pasillos de los reclutas. Es un patrón que todo cadete aprendió a temer desde el primer día.
-> 
-> _[Sonido: Campanas#1]_
-> 
-> Un General Phebiano atraviesa el dormitorio sin detenerse — el rostro, parcialmente reemplazado por placas de cerámica y engranajes, habla con una voz que sale filtrada por metal. Lleva incienso encendido en una mano; con la otra guía en silencio hacia el comedor, donde los reclutas comen antes de entrenar.
-> 
-> —Hoy es un día muy importante.
-> 
-> La voz del General cae sobre el comedor como una piedra en agua quieta, y el silencio que ya reinaba se vuelve algo más denso, algo con peso propio. Ningún recluta en entrenamiento tiene permitido alzar la voz frente a la comida — la disciplina Phebiana cobra esa falta con diez latigazos y diez días enteros sin sustento, y los treinta y cuatro cadetes presentes cargan esa ley grabada en el cuerpo, no solo en la memoria.
-> 
-> —Líderes de BorCorp vendrán por aquellos reclutas que pasen la prueba de hoy. En quince minutos, todos en la sala de entrenamiento.
-> 
-> El General avanza entre las mesas con el paso parejo de quien lleva siglos caminando el mismo pasillo. Nadie mastica. Nadie respira demasiado fuerte. Treinta y cuatro pares de ojos lo siguen con la atención rígida de animales que han aprendido, a fuerza de látigo, a reconocer un depredador en la propia sala donde comen. Ni una mueca. Ni el más leve gesto de desafío. Se escucha, apenas, el zumbido bajo de los engranajes que sostienen media cara del General — el único sonido que la sala se permite.
-> 
-> —Los agruparemos en pelotones de cuatro o cinco, conforme a los atributos y características que nosotros hemos determinado por su rendimiento.
-> 
-> Se detiene. Toma la cabeza de un cadete entre las dos manos, una de metal y cerámica, la otra todavía de carne, y la sostiene como quien sopesa un arma antes de decidir si vale la pena forjarla. La inspecciona en silencio, con la mirada fría de quien ha visto generaciones enteras de reclutas pasar por esa misma mesa y sabe, con certeza absoluta, cuántos de ellos no van a volver a sentarse en ella.
-> 
-> —Quiero que les quede claro: para nosotros, ustedes no están listos. No son ni un diez por ciento de lo que yo esperaría de un verdadero guerrero Phebiano.
-> 
-> Una pausa. La primera de toda su intervención, y por eso mismo la más pesada.
-> 
-> —Un guerrero Phebiano se forja en cinco años Phebianos, no en uno. Cinco años de disciplina que ningún cuerpo llegado de otro mundo soporta sin quebrarse, y de rituales que la mayoría de ustedes ni siquiera tiene permitido presenciar — donde la carne se abre para recibir tecnología que nosotros llamamos sagrada, y que se injerta hueso a hueso, nervio a nervio, hasta que lo que camina al final del proceso ya no responde del todo a un nombre humano.
-> 
-> Recorre con la mirada a los treinta y cuatro, uno por uno, como quien pasa revista a un cargamento de piezas sueltas.
-> 
-> —Y aunque tuvieran esos cinco años. Aunque sus cuerpos aguantaran cada injerto, cada ritual, cada noche que nosotros pasamos bajo este cielo desde antes de tener nombre — no alcanzaría. Ustedes nacieron en mundos blandos, bajo cielos que no les exigían nada. Nosotros nacimos aquí. Nos criamos aquí, donde el aire mismo castiga al débil antes de que aprenda a caminar. Eso no se injerta. Eso no se entrena. Eso se hereda, o no se tiene.
-> 
-> Deja la frase flotando un momento, como si disfrutara el peso exacto que tiene sobre cada uno de los presentes.
-> 
-> —Ustedes no tienen ese tiempo. Y aunque lo tuvieran, no tienen esto.
-> 
-> Suelta al cadete. Se limpia la mano contra el uniforme, despacio, como si el contacto con algo tan incompleto le hubiera dejado algo encima.
-> 
-> —Pero sus líderes necesitan gente, y no se van a ir de Phobitus hasta tener un grupo de... ustedes. Prepárense. Estén listos. Fallar el examen es lo mismo que morir. O peor. No fallen.
-> 
-> Da media vuelta y sale de la sala sin esperar respuesta, porque jamás la espera. La presión que deja atrás tarda en asentarse, como polvo después de una explosión lejana. Recién entonces, en silencio sepulcral, treinta y cuatro cadetes terminan de comer rápido y se levantan a prepararse para la sala de entrenamiento — sabiendo, cada uno a su manera, que nunca van a ser lo que él acaba de nombrar.
+
 
 ---
 
 ## Escena 2 — La Sala de Alistamiento
 
-
+> ![Lideres Phebianos](assets/f928f25f6888ec7e4662466d22e2423e.jpg)
+> 
+> **Leer en voz alta:**
+> 
+> _[Música: "Hohenheim"]_
+> 
 > La Sala de Alistamiento del Sacrarium fue nave, alguna vez, en un pasado que ni los archivos más antiguos se atreven a fechar con precisión. Su casco convertido en bóveda, arcos de metal negro fundidos con piedra tallada a mano por generaciones que ya no tienen nombre propio, iconografía religiosa grabada sobre placas de blindaje que todavía llevan, debajo de siglos de pintura sagrada, el número de serie de una nave que dejó de existir mucho antes de que naciera el último de los presentes.
 > 
 > Treinta y cuatro cadetes ya forman cuando la compuerta principal se abre una segunda vez. Entran dieciséis más, escoltados por técnicos Phebianos que no se molestan en disimular el desprecio — recién bajados de una nave BorCorp que todavía humea en la pista de aterrizaje, con las piernas temblando bajo un peso que sus cuerpos no conocían hasta hoy. La gravedad de Phobitus no perdona a nadie que no haya nacido bajo ella, y se nota en cada uno de los dieciséis: el paso más corto, la mandíbula más apretada, el esfuerzo visible de sostenerse derechos frente a los Phebianos que los evalúan. Ninguno se dobla. Cincuenta cadetes, al final, cierran la fila.
@@ -92,7 +105,10 @@ De hecho es una raza, ultra belica y peligrosa, por lo que se le suele tener muc
 
 ## Escena 3 — La Prueba
 
-
+> **Leer en voz alta:**
+> 
+> [Música: "OscuridadInquietante"]
+> 
 > La fila no se mueve. Cincuenta cuerpos de pie, en formación cerrada, y sin embargo el silencio pesa distinto a como pesaba en el comedor — ahí había miedo a la voz de un solo hombre; acá hay algo más difuso, más grande, que se filtra desde las paredes mismas de la Sala de Alistamiento. El metal de las placas de blindaje suda humedad ritual. El incienso de los oficiales Phebianos que rondan la formación se mezcla con un olor más frío, casi eléctrico, que ningún cadete de otro mundo sabría nombrar — la firma de una tecnología que no se parece a nada que hayan visto antes, injertada en columnas, en arcos, en el propio aire de la sala, como si el edificio entero respirara con pulmones que no son suyos.
 > 
 > Cada Phebiano que camina entre las filas — técnico, oficial, guardia — arrastra esa misma incomodidad. No es solo el metal fusionado a la carne, ni los ojos que a veces brillan con una luz que no debería estar ahí. Es la manera en que se mueven, la certeza absoluta de cada paso, como criaturas que hace mucho dejaron de necesitar dudar de sí mismas. Los cincuenta cadetes lo sienten en la piel, aunque ninguno lo diga en voz alta: están parados en territorio ajeno, bajo la mirada de algo que dejó de ser completamente humano hace generaciones, y que no tiene ningún interés en disimularlo.
@@ -142,16 +158,30 @@ De hecho es una raza, ultra belica y peligrosa, por lo que se le suele tener muc
 > —Siguiente pelotón. ¡EN MARCHA!
 
 ---
+
+## Escena 5 — Sala de Mechas
+
+> **Leer en voz alta:**
+> 
+> Los llaman a ustedes.
+> 
+> No hay tiempo para procesar lo que acaban de ver — el Sacrarium no se detiene por los muertos. La Sala de Mechas los recibe con el olor a ozono y refrigerante ritual, filas de chasis suspendidos en cunas de mantenimiento, técnicos Phebianos moviéndose entre ellos con la eficiencia silenciosa de quienes hacen esto todos los días, para pilotos que a veces vuelven y a veces no. Sus mechas ya están preparados. La orden de despliegue llega antes de que terminen de abrocharse al asiento de pilotaje.
+> 
+> La misma nave que llevó a los dos pelotones anteriores los recibe a ustedes. La misma voz mecánica, sin matiz, detalla la misión mientras vuelan sobre el terreno rojo de Phobitus.
+
+---
+
 ## Misión 0 — Las Turbinas de Succión
 
 Los llaman a ustedes.
 
 No hay tiempo para procesar lo que acaban de ver — el Sacrarium no se detiene por los muertos, todavía no. La Sala de Mechas los recibe con el olor a ozono y refrigerante ritual, filas de chasis suspendidos en cunas de mantenimiento, técnicos Phebianos moviéndose entre ellos con la eficiencia silenciosa de quienes hacen esto todos los días. Sus mechas ya están preparados. La orden de despliegue llega antes de que terminen de abrocharse al asiento de pilotaje.
 
-Recién ahí, sentados dentro del propio chasis con los sistemas encendiéndose alrededor, el peso real de lo que viene termina de asentarse. Esta es la primera misión de verdad. Fallar puede costar la vida, igual que le costó a los diez reclutas que ya vieron morir.
+Recién ahí, sentados dentro del propio chasis con los sistemas encendiéndose alrededor, el peso real de lo que viene termina de asentarse. Esta es la primera misión de verdad. Fallar puede costar la vida, igual que le costó a los diez reclutas que ya vieron morir esta mañana — o, si tienen suerte de sobrevivir sin cumplir el objetivo, puede costarles la licencia Lancer y con ella cualquier motivo para haber venido hasta Phobitus.
 
 Una nave launcher los recoge a los cinco, mechas enganchados al casco externo, y despega hacia la cuenca de extracción. El cielo de Phobitus se abre sobre el cristal de la cabina — esa herida roja permanente que ningún cadete, ni el más veterano de los tres años, terminó nunca de acostumbrarse a mirar. La voz mecánica del briefing empieza a sonar mientras la nave todavía gana altura.
 
+![](IMAGENES/17f199656fbe9adf9e37bb9e8c5f9ce3.jpg)
 
 **Briefing operativo (leer o parafrasear):**
 
@@ -163,10 +193,10 @@ La nave los deja caer al pie de la cuenca. El combate empieza apenas tocan tierr
 
 **Notas de GM — mecánica de la misión:**
 
-- **Enemigos iniciales:** 2 unidades assault y 1 Bastion, priorizando defender las bombas antes que enfrentar a los PJs directamente.
-- **Refuerzos (turno 3):** A partit del turno 3, cada turno entran 2 Assault mas por una de las Zonas de Ingreso.
-- **Comportamiento enemigo:** mientras las bombas sigan en pie, los piratas las defienden por sobre todo. Una vez destruidas, el objetivo pirata cambia a cazar y eliminar al pelotón antes de que escape o a retirarse si los players estan destruyendo a los piratas con facilidad.
-- **Condición de victoria (misión):** destruir todas las bombas antes de que termine el turno 7.
+- **Enemigos iniciales:** 2 unidades assault y 1 tanque, priorizando defender las bombas antes que enfrentar a los PJs directamente.
+- **Refuerzos (turno 3):** entran por tres flancos — 2 assault por izquierda, 2 assault por derecha, 1 unidad por el frente. El grupo arranca posicionado en la parte inferior del mapa.
+- **Comportamiento enemigo:** mientras las bombas sigan en pie, los piratas las defienden por sobre todo. Una vez destruidas, el objetivo pirata cambia a cazar y eliminar al pelotón antes de que escape.
+- **Condición de victoria (misión):** destruir ambas bombas antes de que termine el turno 6.
 - **Condición para sobrevivir:** alcanzar la zona de escape con vida, una vez completado el objetivo.
 - **Fin de la escena:** en el momento en que todos los PJs llegan a la zona de escape, la misión termina.
 
