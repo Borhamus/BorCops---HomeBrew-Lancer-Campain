@@ -71,7 +71,7 @@ A continuación pueden ir a diferentes salas:
 - Sala de talleres.
 - Sala Comedor.
 - Dormitorios.
-- Hangar (Para aprender a construir y reparar mechs)
+- Hangar. (Para aprender a construir y reparar mechs)
 - Sala de Simulaciones.
 
 Pueden explorar, hacer cosas o irse a dormir, mañana a la mañana es el evento donde se hara el evento para los cadetes, donde se los pondra a prueba.
