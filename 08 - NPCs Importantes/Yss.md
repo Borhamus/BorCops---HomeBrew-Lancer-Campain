@@ -1,24 +1,8 @@
----
-tags: [npc, phobitus, sacrarium, reclutable, medica]
-aliases: ["Dra. Yssen Marlow", "Yss"]
-callsign: Yss
-rol: Médica / Cirujana
-ubicacion_dia_libre: Enfermería
-estado: reclutable
-se_une: Custodia (médica de a bordo)
----
 
 # Dra. Yssen Marlow — "Yss"
 
 > Cirujana de BorCorp, treinta años en Phobitus, una de las pocas externas que sobrevivió a los implantes sagrados Phebianos.
 
-## Resumen rápido
-
-- **Callsign:** Yss
-- **Rol en la nave:** Médica de a bordo
-- **Dónde se la encuentra (día libre):** Enfermería del [[Sacrarium]]
-- **Frame:** GMS LL0 — Chomolungma
-- **Se une si:** el grupo gestiona activamente su traslado (hablarle a [[VESTA]], a un representante de [[BorCorp]], o invitarla directo)
 
 ## Apariencia
 
@@ -38,7 +22,7 @@ Excelente cirujana, capaz de dirigir un hospital entero con soltura. Inteligenci
 
 ## Deseo
 
-Treinta años en el mismo lugar la dejaron con una sensación de estancamiento que no termina de nombrar. No odia Phobitus — no sabe si sigue ahí por elección o por inercia. Un contrato nuevo, gente nueva, podría ser la excusa que necesita para descubrir si le queda curiosidad por algo más allá de este planeta.
+Treinta años en el mismo lugar la dejaron con una sensación de estancamiento que no termina de nombrar. No odia Phobitus — no sabe si sigue ahí por elección o por inercia. Un contrato nuevo, gente nueva, podría ser la excusa que necesita para descubrir si le queda curiosidad por algo más allá de este planeta. Ademas de que quiere seguir descubriendo nuevas formas de vida para mejorar su cuerpo. y quizas en un futuro crear una pareja para ella.
 
 ## Diálogos gancho
 
@@ -60,18 +44,6 @@ Treinta años en el mismo lugar la dejaron con una sensación de estancamiento q
 
 ## Notas de DM
 
-- Gancho de trasfondo abierto: sabe algo sobre la "maldición" de Phobitus que los Phebianos no hablan con extraños. Tirada DC 15 (Systems / Trigger social) para que un PJ lo note — no resolver todavía.
 - El estado de las flores del brazo es una herramienta narrativa: podés describir cómo están en vez de decir directamente cómo se siente.
 - Su efecto de feromonas puede jugarse como ventaja social pasiva (+2 o ventaja en tiradas para calmar/confesar/bajar la guardia cerca de ella).
 
-## Prompt de imagen
-
-> Character concept art of a female field surgeon in a sci-fi dark fantasy setting, pale skin, athletic and strong feminine build radiating health and vitality, red fox fur covering her arms, legs, lower back and waist, a fluffy red fox tail, left arm replaced by living branches and vines with real blooming flowers growing from it, flowers subtly reacting to her mood, sharp leopard-like red eyes with slit pupils, dark sunglasses pushed slightly down, wolf-like sharp teeth visible in a confident smirk, wearing a pristine white medical coat over the fur and vines, standing in a dim cathedral-industrial medbay lit by deep crimson light, faint glowing pollen particles drifting around her, biomechanical religious architecture in the background, elegant and confident pose, cinematic lighting, highly detailed digital painting, dark sci-fi fantasy art style
-
----
-
-## Ver también
-
-- [[Vex]]
-- [[Red]]
-- [[J-09]]

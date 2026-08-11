@@ -1,23 +1,8 @@
----
-tags: [npc, phobitus, sacrarium, reclutable, mecanico]
-aliases: ["Ferro Adan Vex", "Torque", "Vex"]
-callsign: Vex
-rol: Mecánico / Jefe de mantenimiento
-ubicacion_dia_libre: Hangar
-estado: reclutable
-se_une: Custodia (jefe de mantenimiento)
----
 
 # Ferro Adan Vex — "Vex" / "Torque"
 
 > Prodigio de la mecánica desde niño, reconstruyó su propio cuerpo en metal e injertos Phebianos porque confía más en lo que puede desarmar y entender que en tejido biológico.
 
-## Resumen rápido
-
-- **Callsign:** Vex ("Torque" entre los técnicos)
-- **Rol en la nave:** Jefe de mantenimiento
-- **Dónde se lo encuentra (día libre):** Hangar del [[Sacrarium]]
-- **Se une si:** el grupo gestiona activamente su traslado (a [[VESTA]], a [[BorCorp]], o directamente a él)
 
 ## Apariencia
 
@@ -65,14 +50,3 @@ Ya reparó todo lo que Phobitus tiene para romper. Está buscando activamente ca
 - Su forma de mantener la humanidad pese a las modificaciones: conoce cada tuerca y cable de su propio cuerpo de principio a fin. Buen tema si algún PJ pregunta directamente qué lo hace sentir todavía humano.
 - Nunca explica del todo su vida antes del accidente si nadie insiste — no es secreto dramático, simplemente no le parece relevante.
 
-## Prompt de imagen
-
-> Character concept art of a male cyborg mechanic in a sci-fi dark fantasy setting, mid-thirties, medium build with slightly hunched shoulders from years bent over engines, short dark hair with premature grey streaks, one dark tired human eye and one mechanical eye with a camera-like adjustable iris, most of his body a patchwork of mismatched cybernetics — crude industrial cables and exposed wiring on one side contrasted with elegant organic ceramic-like Phebian bio-tech implants faintly glowing on the other side, right arm ending in a modular multi-tool hand mid-swap between attachments, left hand still human, worn and calloused, wearing a stained oil-and-coolant-covered mechanic jumpsuit with a faded corporate logo, standing in a dim cathedral-industrial mech hangar surrounded by suspended mech chassis and hanging spare cybernetic limbs on a workbench nearby, deep crimson ambient light mixed with cold blue work lights, calm focused expression, cinematic lighting, highly detailed digital painting, dark sci-fi fantasy art style
-
----
-
-## Ver también
-
-- [[Yss]]
-- [[Red]]
-- [[J-09]]

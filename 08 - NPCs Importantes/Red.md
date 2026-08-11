@@ -1,24 +1,8 @@
----
-tags: [npc, phobitus, sacrarium, reclutable, piloto, bifurcacion]
-aliases: ["Kaia Threnn", "Roja", "Red"]
-callsign: Red
-rol: Piloto
-ubicacion_dia_libre: Sala de Simulación de combate de mechs
-estado: reclutable / bifurcación
-se_une: Custodia (piloto) — o compañía rival de Lancers (antagonista futura)
----
 
 # Kaia Threnn — "Red"
 
 > Piloto de un mundo oceánico casi desconocido de El Corredor, intensa, transparente, sin etiqueta social, cargando una necesidad constante de probar que es suficiente.
 
-## Resumen rápido
-
-- **Callsign:** Red ("Roja")
-- **Rol en la nave (si se une):** Piloto
-- **Dónde se la encuentra (día libre):** Sala de Simulación de combate de mechs del [[Sacrarium]]
-- **⚠️ Es un NPC de bifurcación** — su destino depende de cómo la trate el grupo durante el día libre. Ver sección [[#Bifurcación]] abajo.
-- **Vinculada a:** [[J-09]] (su destino final está atado al de ella)
 
 ## Apariencia
 
@@ -43,6 +27,7 @@ Es buena persona de fondo, transparente hasta la exageración. No entiende el co
 Ganarse, con hechos, el honor de ser Lancer. Probarse a sí misma y a su familia que es suficiente. Cualquier señal de que está perdiendo esa narrativa (que la ignoren, la subestimen, pierda una competencia) la hace reaccionar de inmediato.
 
 ## Diálogos gancho
+La encontras en la sala de simulacion o en los pasillos.
 
 **Entrada (roce en el pasillo o en la sala de simulación):**
 
@@ -59,38 +44,10 @@ Si nadie muerde el anzuelo, se ríe y se va sin resentimiento — puede volver a
 **Duelo en el simulador (si alguien acepta):** tirada enfrentada de combate del PJ vs. Kaia (nivel similar o levemente superior). Ganar = respeto genuino inmediato, sin rencor. Perder tampoco es humillante para ella: *"¡Casi! La próxima te gano peor."*
 
 ## Bifurcación
+Si Red pierde fuerte contra los protas, se plantea de unir a ustedes como grupo.
+en plan "Listo, ya lo decidi, ustedes seran mis compañeros!!!"
 
-```
-Día libre → cómo trató el grupo a Red
-│
-├─ Buena relación / la invitan / compiten con respeto
-│   └─ Red se une a la Custodia como piloto
-│       └─ Participa en la Misión 0
-│       └─ "Aparenta morir" cubriendo una posición imposible
-│           (dejar el cuerpo/causa de muerte ambiguos — gancho de regreso futuro)
-│       └─ J-09: destino abierto (ver [[J-09]])
-│
-└─ Mala relación / la ignoran / no hay vínculo genuino
-    └─ Red se va a una compañía rival de Lancers
-        └─ J-09 se va con ella (ver [[J-09]])
-            └─ Ambos = futuro dúo antagonista recurrente de la campaña
-```
 
-No necesita mecánica compleja — es una decisión narrativa basada en cómo el grupo la trató durante el día libre. Podés marcarlo con un simple ✅/❌ en tus notas de sesión.
-
-## Notas de DM
-
-- Su rasgo de "propone sexo sin filtro social" es mejor jugarlo como comedia de torpeza social — corte a negro o salto de tiempo, nunca escena explícita. Chequear con el grupo el tono antes de usarlo.
-- No hace falta que ese rasgo aparezca en la Sesión 0 — se puede dosificar para más adelante en la campaña, cuando el grupo ya la conozca.
-
-## Prompt de imagen
-
-> Character concept art of a strikingly beautiful female alien pilot in a sci-fi dark fantasy setting, mid-twenties, translucent glassy pale skin with a wet glossy sheen and faint visible blue veins underneath, high sharp cheekbones, large deep blue-black eyes, short damp messy blue hair, sharp jagged teeth visible in a warm genuine wide smile, slender athletic build with fluid graceful posture, Soul Eater anime art style with bold expressive linework, wearing a form-fitting specialized bodysuit with translucent panels showing glistening skin underneath, a throat-mounted voice transmitter device, standing in a dim cathedral-industrial mech hangar corridor lit by deep crimson light, confident intense expression, cinematic lighting, highly detailed digital illustration, dark sci-fi fantasy art style with anime influence
 
 ---
 
-## Ver también
-
-- [[Yss]]
-- [[Vex]]
-- [[J-09]]
