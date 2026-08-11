@@ -42,7 +42,7 @@ Pronto se activan los equipos de sonido y uno de los líderes phebianos dice:
 
 Recorre con la mirada a los 60 cadetes formados, uno por uno, con expresión seria.
 
-> "Para la evaluación formarán equipos de tres a cinco cadetes. Les daremos un día libre para que los nuevos reclutas se aclimaten y se conozcan entre ustedes, porque serán ustedes quienes decidirán la composición de los equipos."
+> "Para la evaluación formarán equipos de dos a cinco cadetes. Les daremos un día libre para que los nuevos reclutas se aclimaten y se conozcan entre ustedes, porque serán ustedes quienes decidirán la composición de los equipos."
 
 > "Dicho esto, retírense. Tienen el día libre. Informen a sus nuevos compañeros qué lugares tienen permitidos y cuáles no. La sala 34 está habilitada para los nuevos. Retírense."
 
@@ -61,7 +61,7 @@ Pueden ser cadetes que pasaron 3 años humanos (1 año phebiano) entrenando aqui
 Los cadetes mas antiguos del lugar indicaron a los nuevos como llegar a la sala 34 y se les indico como funciona **"Sacrarium"** para los cadetes.
 La habitación al igual que muchas otras están hechas de acero negro, incluido las camas, los muebles, todo esta hecho de un solo material como si fuese un solo y único objeto solido.
 
-Nota al DM: 
+#### Nota al DM: 
 acá podes crear NPC's para hablar con los players, te dejo libertad de crear lo que quieras y que se lleven bien con los cadetes players, y otro grupo que se lleven mal, para generar una dinámica de discusión.
 A continuación pueden ir a diferentes salas:
 - Sala de Maquinas para entrenar (Gim).
@@ -70,12 +70,19 @@ A continuación pueden ir a diferentes salas:
 - Sala Enfermería.
 - Sala de talleres.
 - Sala Comedor.
-- Dormitorios.
+- Dormitorios. 43 - 44
 - Hangar. (Para aprender a construir y reparar mechs)
 - Sala de Simulaciones.
 
 Pueden explorar, hacer cosas o irse a dormir, mañana a la mañana es el evento donde se hara el evento para los cadetes, donde se los pondra a prueba.
 
+Aca pueden aparecer NPCs como:
+J-09 entrenando en el gimnacio,
+Red en la sala de simulacion de combate de mechs,
+Yss en la enfermeria,
+Vex en el hangar.
+
+O en diferentes lugares, a discrecion del dm.
 
 
 
@@ -83,48 +90,16 @@ Pueden explorar, hacer cosas o irse a dormir, mañana a la mañana es el evento 
 
 ## Escena 2 — La Sala de Alistamiento
 
-> ![Lideres Phebianos](assets/f928f25f6888ec7e4662466d22e2423e.jpg)
-> 
-> **Leer en voz alta:**
-> 
-> _[Música: "Hohenheim"]_
-> 
-> La Sala de Alistamiento del Sacrarium fue nave, alguna vez, en un pasado que ni los archivos más antiguos se atreven a fechar con precisión. Su casco convertido en bóveda, arcos de metal negro fundidos con piedra tallada a mano por generaciones que ya no tienen nombre propio, iconografía religiosa grabada sobre placas de blindaje que todavía llevan, debajo de siglos de pintura sagrada, el número de serie de una nave que dejó de existir mucho antes de que naciera el último de los presentes.
-> 
-> Treinta y cuatro cadetes ya forman cuando la compuerta principal se abre una segunda vez. Entran dieciséis más, escoltados por técnicos Phebianos que no se molestan en disimular el desprecio — recién bajados de una nave BorCorp que todavía humea en la pista de aterrizaje, con las piernas temblando bajo un peso que sus cuerpos no conocían hasta hoy. La gravedad de Phobitus no perdona a nadie que no haya nacido bajo ella, y se nota en cada uno de los dieciséis: el paso más corto, la mandíbula más apretada, el esfuerzo visible de sostenerse derechos frente a los Phebianos que los evalúan. Ninguno se dobla. Cincuenta cadetes, al final, cierran la fila.
-> 
-> Detrás de ellos entran seis figuras que no pertenecen a Phobitus ni por un segundo — trajes sin una mota de polvo rojo, insignias corporativas que brillan bajo la luz sangrante de los vitrales como si el propio Sacrarium las incomodara. Los líderes de BorCorp no saludan a los reclutas. No los miran, todavía. Cruzan directo hacia los oficiales Phebianos que los esperan al frente de la sala, y ahí empieza una conversación que nadie más alcanza a escuchar completa — números, métricas, algo sobre cupos.
-> 
-> **Nota de GM — creación de personajes:** este es el momento de armar los PJs. Con los cincuenta cadetes ya en formación, cada jugador decide quién es su personaje dentro de esa fila — puede ser uno de los treinta y cuatro que ya llevan tres años humanos de entrenamiento en Phobitus (un año Phebiano completo), o uno de los dieciséis recién llegados de otro mundo, todavía sintiendo el peso real del planeta por primera vez. Ninguna opción es mejor ni peor narrativamente; solo cambia el color de cada historia. Este es también el momento de terminar de definir mech y equipo, para que cada PJ llegue listo al resto de la sesión. Una vez que el grupo de protagonistas está formado, cada jugador se presenta ante el resto del grupo de jugadores — alcanza con que cada PJ diga quién es, de dónde viene, y por qué está acá.
-> 
-> **Leer en voz alta (opcional, si el grupo pregunta por qué tanta gente arriesga esto):**
-> 
-> Corre entre los cadetes, en voz baja, casi como plegaria, una frase que todos repiten en algún momento de su entrenamiento: que quien termina su contrato con BorCorp no vuelve a preocuparse por nada, nunca más, ni él ni los suyos por el resto de sus vidas. BorCorp tiene salas de entrenamiento repartidas por todo El Corredor, cada una peor que la anterior, y Phobitus tiene fama de ser, entre todas, la que menos gente devuelve entera. Y aun así la fila crecen cada año. Aun así, cincuenta cuerpos están hoy parados acá, dispuestos a jugarse la vida contra una promesa que muy pocos llegan a cobrar.
 
----
-
-## Escena 3 — La Prueba
-
-> **Leer en voz alta:**
 > 
-> [Música: "OscuridadInquietante"]
-> 
-> La fila no se mueve. Cincuenta cuerpos de pie, en formación cerrada, y sin embargo el silencio pesa distinto a como pesaba en el comedor — ahí había miedo a la voz de un solo hombre; acá hay algo más difuso, más grande, que se filtra desde las paredes mismas de la Sala de Alistamiento. El metal de las placas de blindaje suda humedad ritual. El incienso de los oficiales Phebianos que rondan la formación se mezcla con un olor más frío, casi eléctrico, que ningún cadete de otro mundo sabría nombrar — la firma de una tecnología que no se parece a nada que hayan visto antes, injertada en columnas, en arcos, en el propio aire de la sala, como si el edificio entero respirara con pulmones que no son suyos.
-> 
-> Cada Phebiano que camina entre las filas — técnico, oficial, guardia — arrastra esa misma incomodidad. No es solo el metal fusionado a la carne, ni los ojos que a veces brillan con una luz que no debería estar ahí. Es la manera en que se mueven, la certeza absoluta de cada paso, como criaturas que hace mucho dejaron de necesitar dudar de sí mismas. Los cincuenta cadetes lo sienten en la piel, aunque ninguno lo diga en voz alta: están parados en territorio ajeno, bajo la mirada de algo que dejó de ser completamente humano hace generaciones, y que no tiene ningún interés en disimularlo.
-> 
-> Al frente del salón, sobre una tarima de metal oscurecido por el uso, un Capitán con media cara cubierta por un respirador ritual levanta la voz. No grita. No hace falta.
+> Al siguiente dia todos formaban temprano en la sala de evento. La fila no se mueve. Sesenta cuerpos de pie, en formación cerrada.
+>Al frente del salón, sobre una tarima de metal oscurecido por el uso, un Capitán con media cara cubierta por un respirador ritual levanta la voz. 
 > 
 > —Un año de entrenamiento no significa nada hasta que se prueba bajo fuego real. Hoy se arman los pelotones que van a decidir quién de ustedes es digno de considerarse un Lancer para el nombre de BorCorp. Cada pelotón sale, cumple la misión asignada, y vuelve. O no vuelve. Así de simple.
 > 
-> Consulta un dataslate cubierto de escarcha ritual.
+> Consulta un dataslate azul
 > 
 > —Primer pelotón. A la Sala de Mechas. En marcha.
-
----
-
-## Escena 4 — El Primer y Segundo Pelotón
-
 > Cinco reclutas rompen formación y desaparecen por la compuerta que lleva a la Sala de Mechas. El resto se queda esperando, y sobre el gran monitor suspendido detrás de la tarima la imagen se enciende: una nave de transporte los recibe, los eleva sobre el terreno quebrado de Phobitus, y una voz mecánica — la misma de cualquier briefing, sin matiz, sin peso — les detalla la misión mientras la nave todavía vuela. Todos en la sala escuchan con ellos. Nadie en la sala aparta la vista.
 > 
 > Su mision era simple, subjugar unas creaturas oscuras cerca de unos cristales, eran 3 creaturas avistadas y deberian destruirlas para cumplir el objetivo y volver con el cuerpo de uno de ellos, que en este planeta utilizan su cuerpo como materia prima para armas y equipo de vestimenta.
@@ -143,23 +118,11 @@ Pueden explorar, hacer cosas o irse a dormir, mañana a la mañana es el evento 
 > 
 > Cuando el momento esté listo, leer en voz alta:
 > 
-> El Capitán no levanta la voz. No hace ninguna pausa dramática. Consulta el dataslate.
+> El Capitán no levanta la voz, suspira, apenas, como quien ya vio esto demasiadas veces. No hace ninguna pausa dramática. Consulta el dataslate.
 > 
 > —Segundo pelotón. En marcha.
-> 
-> ---
-> 
-> Otros cinco reclutas cruzan la compuerta. La misma nave, el mismo trayecto, la misma voz mecánica explicando el objetivo mientras vuelan: interceptar y neutralizar un grupo de piratas asentado en una franja costera árida, al sur de la cuenca principal. El pelotón toca tierra y avanza con orden, al principio — hasta que alguien elige mal el terreno, ocupa una posición que parecía cobertura y resulta ser una trampa de líneas de tiro cruzadas. Quedan expuestos desde tres ángulos a la vez, sin margen para corregir.
-> 
-> No dura mucho. En la sala, cincuenta cuerpos observan el monitor con un peso distinto en el estómago — no es sorpresa, ya no. Es el sudor frío de saber exactamente lo que viene y no poder hacer nada para evitarlo, salvo ser mejores cuando les toque a ellos.
-> 
-> El Capitán suspira, apenas, como quien ya vio esto demasiadas veces.
-> 
-> —Siguiente pelotón. ¡EN MARCHA!
 
----
-
-## Escena 5 — Sala de Mechas
+## Escena 3 — Sala de Mechas
 
 > **Leer en voz alta:**
 > 
@@ -181,28 +144,24 @@ Recién ahí, sentados dentro del propio chasis con los sistemas encendiéndose 
 
 Una nave launcher los recoge a los cinco, mechas enganchados al casco externo, y despega hacia la cuenca de extracción. El cielo de Phobitus se abre sobre el cristal de la cabina — esa herida roja permanente que ningún cadete, ni el más veterano de los tres años, terminó nunca de acostumbrarse a mirar. La voz mecánica del briefing empieza a sonar mientras la nave todavía gana altura.
 
-![](IMAGENES/17f199656fbe9adf9e37bb9e8c5f9ce3.jpg)
-
 **Briefing operativo (leer o parafrasear):**
 
-Sensores orbitales detectaron actividad no autorizada en una de las cuencas de extracción de Phobitus: un grupo de piratas instaló dos bombas succionadoras ilegales, drenando directo el subsuelo del planeta. Lo que extraen es un crudo negro y viscoso que en Phobitus apenas sirve de combustible ritual, pero que en el mercado negro de otros sistemas se vende como narcótico de altísimo valor.
-
-—Objetivo: destruir las dos bombas succionadoras antes de que los piratas logren llevárselas. Para volver con vida, además, tienen que alcanzar la zona de extracción antes de que la nave se retire.
+—Objetivo: destruir las 3 bombas succionadoras antes de que los piratas logren llevárselas. Para volver con vida, además, tienen que alcanzar la zona de extracción antes de que la nave se retire.
 
 La nave los deja caer al pie de la cuenca. El combate empieza apenas tocan tierra.
 
 **Notas de GM — mecánica de la misión:**
 
-- **Enemigos iniciales:** 2 unidades assault y 1 tanque, priorizando defender las bombas antes que enfrentar a los PJs directamente.
-- **Refuerzos (turno 3):** entran por tres flancos — 2 assault por izquierda, 2 assault por derecha, 1 unidad por el frente. El grupo arranca posicionado en la parte inferior del mapa.
+- **Enemigos iniciales:** 2 unidades assault y 1 tanque x player - priorizando defender las bombas antes que enfrentar a los PJs directamente.
+- **Refuerzos (turno 3):** entran por todos los flancos — 2 assault en cada entrada.
 - **Comportamiento enemigo:** mientras las bombas sigan en pie, los piratas las defienden por sobre todo. Una vez destruidas, el objetivo pirata cambia a cazar y eliminar al pelotón antes de que escape.
-- **Condición de victoria (misión):** destruir ambas bombas antes de que termine el turno 6.
+- **Condición de victoria (misión):** destruir ambas bombas antes de que termine el turno 10.
 - **Condición para sobrevivir:** alcanzar la zona de escape con vida, una vez completado el objetivo.
 - **Fin de la escena:** en el momento en que todos los PJs llegan a la zona de escape, la misión termina.
 
 ---
 
-## Escena 6 — Bora-250
+## Escena 4 — Oficialmente contratados!
 
 > _Leer en voz alta:_
 > 
@@ -244,9 +203,6 @@ _Nota de GM: esto pasa ganen, pierdan, o queden en un punto intermedio — el Sa
 > 
 > **BORA-250** salta. Phobitus queda atrás, un punto rojo que se apaga entre las estrellas.
 > 
-> ![](assets/05ad3b93f97feebf4c262fcc9bc9078b.jpg)
-
----
 
 _Fin de la Sesión 0._
 
