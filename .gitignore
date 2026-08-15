@@ -6,6 +6,9 @@
 # Claude Code local settings
 .claude/settings.local.json
 
+# Memoria local del DM (notas de charlas con Claude, no versionadas)
+09 - Memoria DM/
+
 # OS
 .DS_Store
 Thumbs.db

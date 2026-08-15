@@ -24,4 +24,4 @@ Tras un largo y arduo año de entrenamiento, ha llegado el momento de que se enf
 
 Si sobreviven, embarcarán en la **BORA-250**, una nave de exploración desde la que recorrerán los rincones más peligrosos del Corredor, recuperando artefactos imposibles, descubriendo civilizaciones olvidadas y enfrentándose a enemigos que llevan milenios custodiando secretos que nunca debieron despertar.
 
-Comienza la: [[Session 00]]
+Comienza la: [[00 Session]]
