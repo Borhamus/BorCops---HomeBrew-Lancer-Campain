@@ -80,11 +80,11 @@ A bordo, en una de las secciones de retención, hay tres prisioneros que le inte
 
 **Rutas de infiltración — notas de GM**
 
-| Ruta       | Descripción                                                                | Riesgo / ventaja                                                                                                                            |
-| ---------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Arriba** | Conductos de mantenimiento y ventilación, sobre las cubiertas principales. | Casi sin patrullas, pero angosto y lento — cualquier ruido viaja por todo el conducto.                                                      |
-| **Centro** | Los pasillos de tripulación, la ruta "normal" de la nave.                  | La más corta y directa, pero también la más transitada — mayor probabilidad de cruzarse con guardias.                                       |
-| **Abajo**  | Sectores de carga y sentinas, cerca del casco.                             | El deposito de la nave, donde trabajan los motores a alta temperatura. El calor intenso es capaz de abrazar a un tripulante sin proteccion. |
+| Ruta   | Descripción                                    | Riesgo / ventaja                                                                                                                            |
+| ------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **H1** | Carceles y salas de descanso de soldados.      | Patrullan soldados cada tanto y hay camaras.                                                                                                |
+| **H2** | Centro de Comando y mas prisiones              | Siempre patrullada y hay camaras, en la base esta el capitan.                                                                               |
+| **H3** | Sectores de carga y sentinas, cerca del casco. | El deposito de la nave, donde trabajan los motores a alta temperatura. El calor intenso es capaz de abrazar a un tripulante sin proteccion. |
 
 > —¿Por dónde entramos, entonces? Ustedes deciden. Yo les voy actualizando el mapa a medida que avanzan.
 
@@ -111,7 +111,7 @@ A bordo, en una de las secciones de retención, hay tres prisioneros que le inte
 
 ### NPC — Encuentro opcional
 
-**HUON VONN GRISSWU "EL CHEF"** _Prisionero — Federación Intergaláctica Galaga_
+**HUON VONN GRISSWU "EL CHEFF"** _Prisionero — Federación Intergaláctica Galaga_
 
 > _"Por favor, llévenme con ustedes. Trabajaré para ustedes gratis un año entero, si quieren... o bueno, dos años... ¡pero por favor sáquenme de acá! Tengo... tengo esto."_
 
